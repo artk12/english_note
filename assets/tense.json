@@ -2,6 +2,7 @@
   {
     "tense": "Past",
     "name": "Past Simple",
+    "persion_name": "گذشته ساده",
     "description": "از این زمان برای اشاره به رخدادی که در زمانی در گذشته رخ داده و به پایان رسیده استفاده می کنیم. نکته مهم در استفاده از این فعل آن است که فعالیت مورد نظر حتما پایان یافته باشد.\nبرای ساخت این نوع فعل چناچه فعل بی قاعده نباشد باید به انتهای آن ed اضافه کرد.",
     "ex1": "I celebrated New Year’s Eve with my family last night.",
     "ex2": "I once loved him, now I don’t care about him anymore.",
@@ -21,6 +22,7 @@
   {
     "tense": "Past",
     "name": "Past continuous",
+    "persion_name": "گذشته استمراری",
     "description": "از این زمان برای اشاره به رخدادی استفاده می شود که در مقطع زمانی خاصی در گذشته در حال انجام بوده است. در اینجا اینکه این فعالیت یا رخداد به پایان رسیده است یا خیر مدنظر نیست و اهمیتی ندارد. تمرکز صرفا بر روی استمرار فعالیت است.",
     "ex1": "I was studying for my English exam last night.",
     "ex2": "She was helping her mum in the housework.",
@@ -40,6 +42,7 @@
   {
     "tense": "Past",
     "name": "Past Perfect",
+    "persion_name": "گذشته کامل",
     "description": "از این زمان برای اشاره به رخدادی استفاده می شود که قبل از رخداد دیگری در گذشته به اتمام رسیده باشد.",
     "ex1": "I’d finished my homework when he got home.",
     "ex2": "The party had ended by the time I woke up.",
@@ -59,6 +62,7 @@
   {
     "tense": "Past",
     "name": "Past perfect continuous",
+    "persion_name": "گذشته کامل استمراری",
     "description": "از این زمان برای اشاره به اینکه رخدادی تا مقطع خاصی در گذشته به شکل استمراری در جریان بوده است استفاده می کند. پس این رخداد قبل از یک مقطع زمانی یا رخداد دیگری در گذشته قرار می گیرد و ممکن است زمان رسیدن به این نقطه همچنان در جریان باشد یا اینکه پایان یافته باشد.",
     "ex1": "She’d been working for three hours when she got a call from her boss.",
     "ex2": "I’d been trying to paint my room to no avail before he came and helped me.",
@@ -78,6 +82,7 @@
   {
     "tense": "Present",
     "name": "Present Simple",
+    "persion_name": "حال ساده",
     "description": "از این زمان برای اشاره به حقایق عمومی و عادت های متداول و روزمره زندگی استفاده می شود.\nبرای ساخت این نوع فعل باید برای همه اشخاص به غیر از سوم شخص از شکل ساده فعل استفاده کرد. ضروری است که به انتهای فعل سوم شخص s یا es افزود.",
     "ex1": "Earth goes around the sun.",
     "ex2": "They live in Shiraz.",
@@ -97,6 +102,7 @@
   {
     "tense": "Present",
     "name": "Present Continuous",
+    "persion_name": "گذشته استمراری",
     "description": "از این زمان برای اشاره به عملی که دقیقا همین الان رخ می دهد یا عملی که برای شکل موقت در بازه زمانی در زمان حال در حال انجام است استفاده می کنیم.\nمثلا من الان مشغول تایپ کردن این مطالب هستم. این کاری است که در لحظه انجام می دهم. اما من این روزها هم یک کتاب داستان مطالعه می کنم. دقیقا در همین لحظه کتاب نمی خوانم ولی به شکل موقت این کتاب جزوی از حقیقت کنونی من است. برای هر دو موقعیت باید از حال استمراری استفاده کرد.",
     "ex1": "I’m writing an article about English tenses right now.",
     "ex2": "I’m reading a novel by Virginia Woolf.",
@@ -116,6 +122,7 @@
   {
     "tense": "Present",
     "name": "Present Perfect",
+    "persion_name": "حال کامل",
     "description": "از این زمان برای چند حالت مختلف استفاده می کنیم:\nزمانی که عملی در گذشته شروع شده و تا به امروز همچنان ادامه دارد.\nزمانی که عملی در گذشته شروع شده و پایان یافته ولی همچنان بر زمان حال تاثیر گذار است.\nزمانی که درباره تجربیات زندگی صحبت می کنیم.",
     "ex1": "I have lived in Shiraz my whole life.",
     "ex2": "They can’t get in; they have lost their key.",
@@ -135,6 +142,7 @@
   {
     "tense": "Present",
     "name": "Present Perfect Continuous",
+    "persion_name": "حال کامل استمراری",
     "description": "از این زمان برای چند حالت مختلف استفاده می کنیم:\nرخدادی که در مقطعی در گذشته شروع شده و تا حال ادامه دارد.\nرخدادی که در گذشته شروع شده و پایان یافته ولی ما همچنان می توانیم نشانه های وقوع آن را دور و بر خودمان ببینیم. مثل وقتی که باران باریده و ما می توانیم زمان خیس را مشاهده کنیم.\nدرباره یک عادت جدید که تازه به روزمره ما اضافه شده است.",
     "ex1": "I’ve been writing this article for two hours.",
     "ex2": "Look at the ground. It’s wet. I think it’s been raining.",
@@ -154,6 +162,7 @@
   {
     "tense": "Future",
     "name": "Future Simple",
+    "persion_name": "آینده ساده",
     "description": "برای زمان حال آینده از دو نوع فعل مختلف استفاده می شود که هر کدام کاربردهای مخصوص به خود را دارند: be going to و will. بعد از هر دو این افعال باید از شکل ساده فعل استفاده کرد. \nکاربردهای will:\nتصمیمات آنی و لحظه ای\nوقتی که بر اساس یک نظر شخصی بر این باور هستیم که چیزی در آینده رخ خواهد داد.\nدرباره حقایق عمومی که در آینده رخ می دهند.\n\nکاربردهای be going to:\nبرنامه برای انجام کاری\nوقتی که بر اساس شواهد موجود بر این باور هستیم که اتفاقی رخ خواهد داد.\n\n.",
     "ex1": "I will answer the phone.",
     "ex2": "I think you will get into a good university.",
@@ -173,6 +182,7 @@
   {
     "tense": "Future",
     "name": "Future Continuous",
+    "persion_name": "آینده استمراری",
     "description": "از این زمان برای اشاره به اینکه در بازه زمانی در آینده چیزی به شکل استمراری در جریان خواهد بود استفاده می کنیم.",
     "ex1": "I think you will be missing us a lot when you go to England.",
     "ex2": "This time next week I’ll be taking the entrance exam for university. It’s very scary.",
@@ -192,6 +202,7 @@
   {
     "tense": "Future",
     "name": "Future Perfect",
+    "persion_name": "آینده کامل",
     "description": "از این زمان برای اشاره به اینکه رخدادی در آینده قبل از زمان یا رخداد دیگری پایان خواهد یافت استفاده می کنیم.",
     "ex1": "We’ll have resolved the IT problem by this afternoon.",
     "ex2": "Let’s wait until 5 p.m. The game will have finished by then.",
@@ -211,6 +222,7 @@
   {
     "tense": "Future",
     "name": "Future Perfect Continuous",
+    "persion_name": "آینده کامل استمراری",
     "description": "به رویدادها یا اقداماتی اشاره دارد که در حال حاضر ناتمام هستند اما در آینده به پایان خواهند رسید. اغلب با عبارت زمان استفاده می شود.",
     "ex1": "In a month, I’ll have been working here for a year.",
     "ex2": "Next December, she’ll have been living abroad for two years.",
