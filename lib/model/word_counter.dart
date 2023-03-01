@@ -17,16 +17,21 @@ class WordCounter {
   WordCounter({this.idWord,this.repeat,this.id});
 
   WordCounter.fromJson(Map parsedJson){
-    id = parsedJson['ID'];
-    idWord = parsedJson['id_word'];
-    repeat = parsedJson['repeat'];
+    id = parsedJson[WordCounterFields.keyId];
+    idWord = parsedJson[WordCounterFields.keyWord];
+    repeat = parsedJson[WordCounterFields.keyRepeat];
   }
 
   Map<String,dynamic> toJson(){
     return {
-      'id_word':idWord,
-      'repeat':repeat,
+      WordCounterFields.keyId:id,
+      WordCounterFields.keyWord:idWord,
+      WordCounterFields.keyRepeat:repeat,
     };
+  }
+
+  WordCounter copyWith({int? id,int? idWord,int? repeat}){
+    return WordCounter(id: id??this.id,idWord: idWord??this.idWord,repeat: repeat??this.repeat);
   }
 
 }

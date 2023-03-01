@@ -4,8 +4,11 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
+import 'package:word_learning/load_assets/load_assets.dart';
 import 'package:word_learning/model/word.dart';
 import 'package:word_learning/model/word_counter.dart';
+
+import '../model/quiz.dart';
 
 class WordDatabase {
   static final WordDatabase instance = WordDatabase._init();
@@ -25,41 +28,24 @@ class WordDatabase {
     final dbPath = await getDatabasesPath();
     final path = join(dbPath, filePath);
 
-    return await openDatabase(path, version: 3, onCreate: _createDB);
+    return await openDatabase(path, version: 4, onCreate: _createDB);
   }
 
   Future _createDB(Database db, int version) async {
     await db.execute(
         'CREATE TABLE IF NOT EXISTS words ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL,lesson INTEGER NOT NULL, word VARCHAR(100) NOT NULL , translated  VARCHAR(100) NOT NULL ,sentences JSON NOT NULL,description TEXT NOT NULL  , year VARCHAR(4) NOT NULL ,month VARCHAR(2) NOT NULL ,day VARCHAR(2) NOT NULL )');
     await db.execute(
-        'CREATE TABLE IF NOT EXISTS quiz ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, created_time VARCHAR(30) NOT NULL ,end_time VARCHAR(30) NOT NULL, words JSON NOT NULL)');
+        'CREATE TABLE IF NOT EXISTS quiz ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, created_time VARCHAR(30) NOT NULL , words JSON NOT NULL)');
     await db.execute(
         'CREATE TABLE IF NOT EXISTS word_counter ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, id_word  INTEGER,repeat  INTEGER NOT NULL )');
     await db.execute(
         'CREATE TABLE IF NOT EXISTS question ( ID INTEGER PRIMARY KEY AUTOINCREMENT NOT NULL, id_word  INTEGER, id_quiz INTEGER ,timer VARCHAR(30) NOT NULL , corrected_answer  VARCHAR(100) NOT NULL )');
   }
 
-  Future<String>_loadFromAsset() async {
-    return await rootBundle.loadString("assets/words.json");
-  }
-
-  Future<List<Word>> parseJson504Words() async {
-    String jsonString = await _loadFromAsset();
-    final jsonResponse = jsonDecode(jsonString)['Sheet1'];
-    List<Word> words = [];
-    for (int i = 0; i < jsonResponse.length; i++) {
-      Map<String,dynamic> map =  Word.convertEssentialJsonFormat(jsonResponse[i]);
-      words.add(Word.fromJson(map));
-    }
-    return words;
-  }
-
-  Future saveWordGroup(List<Word> words)async{
+  Future saveWordGroup(List<Word> words) async {
     for (var element in words) {
-      debugPrint("Save ${element.word}...");
       insertWord(element);
     }
-    debugPrint('mission complete :)');
   }
 
   Future<Word> insertWord(Word w) async {
@@ -68,6 +54,11 @@ class WordDatabase {
     await db.insert(
         'word_counter', WordCounter(idWord: wordId, repeat: 0).toJson());
     return w.copyWith(id: wordId);
+  }
+
+  Future<void> insertQuiz(Quiz q) async {
+    final db = await instance.database;
+    int quizId = await db.insert('quiz', q.toJson());
   }
 
   Future<int> deleteWord(int id) async {
@@ -84,6 +75,14 @@ class WordDatabase {
         where: '${WordFields.keyId} = ?', whereArgs: [w.id]);
   }
 
+  Future updateWordCounter(WordCounter w) async {
+    final db = await instance.database;
+    WordCounter updated = w.copyWith(repeat: w.repeat! +1);
+    debugPrint(updated.toJson().toString());
+    var t = await db.update('word_counter', updated.toJson() ,where: '${WordCounterFields.keyId} = ?', whereArgs: [updated.id]);
+    debugPrint(t.toString());
+  }
+
   Future close() async {
     final db = await instance.database;
     db.close();
@@ -96,8 +95,8 @@ class WordDatabase {
       orderBy: "ID DESC",
     );
 
-    if(result.isEmpty){
-      List<Word> words = await parseJson504Words();
+    if (result.isEmpty) {
+      List<Word> words = await LoadFromAssets.get504Words();
       saveWordGroup(words);
       return words;
     }
@@ -112,5 +111,4 @@ class WordDatabase {
 
     return result.map((e) => WordCounter.fromJson(e)).toList();
   }
-
 }

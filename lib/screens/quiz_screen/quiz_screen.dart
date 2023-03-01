@@ -39,28 +39,28 @@ class QuizScreen extends StatelessWidget {
               Random random = Random();
 
               for (Word element in wordQuestions) {
-                List<Word> randomWordList = [];
+                List<Word> randomWordAwnserList = [];
                 // randomWordList.add(element);
-                while (randomWordList.length != 3) {
+                while (randomWordAwnserList.length != 3) {
                   int r = random.nextInt(words.length);
                   Word randomWord = words[r];
-                  if (!randomWordList.contains(randomWord) &&
+                  if (!randomWordAwnserList.contains(randomWord) &&
                       randomWord.id != element.id) {
-                    randomWordList.add(randomWord);
+                    randomWordAwnserList.add(randomWord);
                   }
                 }
-                randomWordList.add(element);
-                randomWordList.shuffle();
+                randomWordAwnserList.add(element);
+                randomWordAwnserList.shuffle();
                 questions
-                    .add(Question(randomWords: randomWordList, word: element));
+                    .add(Question(randomWords: randomWordAwnserList, word: element));
               }
 
-              QuizManager quizManager = QuizManager(questions: questions,words: words);
+              QuizManager quizManager = QuizManager(questions: questions,words: words,chosenWordCounter: chosen);
 
               return Center(
                 child: ElevatedButton(
                     onPressed: () {
-                      Navigator.of(context).push(MaterialPageRoute(
+                      Navigator.of(context).pushReplacement(MaterialPageRoute(
                           builder: (context) => ChangeNotifierProvider.value(
                               value: quizManager, child: const Challenge())));
                     },

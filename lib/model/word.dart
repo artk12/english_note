@@ -1,5 +1,6 @@
 import 'dart:convert';
 
+import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 
 class WordFields {
@@ -57,16 +58,17 @@ class Word {
           month: month ?? this.month);
 
   static Word fromJson(Map<String, dynamic> map) {
+
     return Word(
       id: map[WordFields.keyId],
       word: map[WordFields.keyWord],
       translated: map[WordFields.keyTranslated],
       sentences: map[WordFields.keySentences],
       description: map[WordFields.keyDescription],
-      year: int.parse(map[WordFields.keyYear]),
-      day: int.parse(map[WordFields.keyDay]),
-      month: int.parse(map[WordFields.keyMonth]),
-      lesson: map[WordFields.keyLesson]
+      year: int.parse(map[WordFields.keyYear].toString()),
+      day: int.parse(map[WordFields.keyDay].toString()),
+      month: int.parse(map[WordFields.keyMonth].toString()),
+      lesson: int.parse(map[WordFields.keyLesson].toString()),
     );
   }
 
@@ -82,7 +84,7 @@ class Word {
         WordFields.keyLesson : lesson,
       };
 
-  static Map<String, dynamic> convertEssentialJsonFormat(Map params) {
+  static Map<String, dynamic> convertEssentialJsonFormat(Map params,int id) {
     String word = params['word'];
     String lesson = params['lesson'].toString();
     String translated = params['Persian'];
@@ -98,6 +100,7 @@ class Word {
     String day = '0';
 
     return {
+      WordFields.keyId: id,
       WordFields.keyLesson : lesson,
       WordFields.keyWord: word,
       WordFields.keyTranslated: translated,

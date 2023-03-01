@@ -1,6 +1,10 @@
 import 'package:flutter/material.dart';
+import 'package:word_learning/database/database.dart';
+import 'package:word_learning/model/word_counter.dart';
+import 'package:word_learning/state_managers/providers/refresh_provider.dart';
 
 import '../../model/question.dart';
+import '../../model/quiz.dart';
 import '../../model/word.dart';
 
 class QuizManager extends ChangeNotifier{
@@ -11,8 +15,10 @@ class QuizManager extends ChangeNotifier{
   Word? chosen ;
   bool isSelected = false;
   List<Word> words;
+  bool isSavedDetail = false;
+  List<WordCounter> chosenWordCounter;
 
-  QuizManager({required this.questions,required this.words});
+  QuizManager({required this.questions,required this.words,required this.chosenWordCounter});
 
   bool checkAnswerOnTap(Word word){
     return questions[count-1].word!.translated == word.translated;
@@ -33,7 +39,7 @@ class QuizManager extends ChangeNotifier{
     List<Word> list = [];
     for (var element in correctedListMap) {
       int id = element['id_word']!;
-      list.add(words[id]);
+      list.add(words.firstWhere((element) => element.id == id));
     }
     return list;
   }
@@ -42,10 +48,19 @@ class QuizManager extends ChangeNotifier{
     List<Word> list = [];
     for (var element in inCorrectedListMap) {
       int id = element['id_word']!;
-      list.add(words[id]);
+      list.add(words.firstWhere((element) => element.id == id));
     }
     return list;
   }
+
+  get getAllQuestionWords{
+    List<Word> list = [];
+    for (var element in questions){
+      list.add(element.word!);
+    }
+    return list;
+  }
+
 
   get question => questions[count-1];
 
@@ -62,7 +77,19 @@ class QuizManager extends ChangeNotifier{
     notifyListeners();
   }
 
+  Future saveQuiz(RefreshProvider refreshProvider)async{
+    if(!isSavedDetail){
+      isSavedDetail = true;
+      for(WordCounter counter in chosenWordCounter){
 
-
+        WordDatabase.instance.updateWordCounter(counter);
+      }
+      Quiz q = Quiz(words: questionsRecorde,createdTime: DateTime.now());
+      WordDatabase.instance.insertQuiz(q);
+      Future.delayed(Duration.zero).then((value) {
+        refreshProvider.refresh();
+      });
+    }
+  }
 
 }

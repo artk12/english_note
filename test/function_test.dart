@@ -4,6 +4,8 @@ import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';
 import 'package:flutter_test/flutter_test.dart';
 import 'package:word_learning/database/database.dart';
+import 'package:word_learning/load_assets/load_assets.dart';
+import 'package:word_learning/model/tense.dart';
 import 'package:word_learning/model/word.dart';
 
 main() {
@@ -25,9 +27,13 @@ main() {
     //parse the json file
     print(jsonResponse[0]);
     List<Word> words = [];
-    // for (int i = 0; i < jsonResponse.length; i++) {
-    //   Map<String,dynamic> map =  Word.convertEssentialJsonFormat(jsonResponse[i]);
-    //   words.add(Word.fromJson(map));
-    // }
+  });
+
+  test('test read tenses json', () async {
+    //read all data from the json file
+    WidgetsFlutterBinding.ensureInitialized();
+    List<Tense> tenses = await LoadFromAssets.getTenses();
+    print(tenses.length);
+    print("good job bro :)");
   });
 }

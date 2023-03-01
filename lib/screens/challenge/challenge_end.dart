@@ -3,6 +3,9 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 import 'package:percent_indicator/circular_percent_indicator.dart';
 import 'package:provider/provider.dart';
+import 'package:word_learning/database/database.dart';
+import 'package:word_learning/model/word_counter.dart';
+import 'package:word_learning/state_managers/providers/refresh_provider.dart';
 
 import '../../model/word.dart';
 import '../../state_managers/providers/quiz_manager.dart';
@@ -10,37 +13,47 @@ import '../../state_managers/providers/quiz_manager.dart';
 class ChallengeEnd extends StatelessWidget {
   const ChallengeEnd({Key? key}) : super(key: key);
 
+
+
+
   @override
   Widget build(BuildContext context) {
     QuizManager quizManager = Provider.of(context);
+    List<WordCounter> wordCounter = Provider.of<List<WordCounter>>(context);
+    RefreshProvider refreshProvider = Provider.of<RefreshProvider>(context);
     List<Word> correctedListMap = quizManager.correctedAnswerWord;
     List<Word> inCorrectedListMap = quizManager.inCorrectedAnswerWord;
     int correctedAnswerCounter = correctedListMap.length;
     int inCorrectedAnswerCounter = inCorrectedListMap.length;
+    List<WordCounter> selectedWordCounter = [];
 
     return Scaffold(
-      body: Container(
-        decoration: const BoxDecoration(
-          image: DecorationImage(
-              image: AssetImage('assets/bg.jpeg'), fit: BoxFit.cover),
+      appBar: AppBar(
+        centerTitle: true,
+        backgroundColor: Theme.of(context).scaffoldBackgroundColor,
+        leading: IconButton(icon: const Icon(Icons.arrow_back_ios,color: Colors.blueGrey,),onPressed: (){
+          Navigator.of(context).pop();
+        },),
+        title: Text(
+          "All right, quiz's over.",
+          style: Theme.of(context)
+              .textTheme
+              .headline1!
+              .copyWith(color: Colors.blueGrey),
         ),
-        child: BackdropFilter(
-          filter: ImageFilter.blur(sigmaX: 3.0, sigmaY: 3.0),
-          child: SafeArea(
+      ),
+      body: FutureBuilder(
+        future: quizManager.saveQuiz(refreshProvider),
+        builder: (context, snapshot) {
+          if(snapshot.connectionState != ConnectionState.done){
+            return const Center(child: CircularProgressIndicator(),);
+          }
+          return SafeArea(
             child: SingleChildScrollView(
               child: Column(
                 mainAxisAlignment: MainAxisAlignment.center,
                 crossAxisAlignment: CrossAxisAlignment.center,
                 children: [
-                  Center(
-                      child: Text(
-                    "All right, quiz's over.",
-                    style: Theme.of(context)
-                        .textTheme
-                        .headline1!
-                        .copyWith(color: Colors.blueGrey),
-                  )),
-                  // const Spacer(flex: 1,),
                   const SizedBox(
                     height: 20,
                   ),
@@ -105,8 +118,8 @@ class ChallengeEnd extends StatelessWidget {
                                   boxShadow: const [
                                     BoxShadow(
                                         color: Colors.green,
-                                        blurRadius: 15,
-                                        spreadRadius: 2)
+                                        blurRadius: 3,
+                                        spreadRadius: 1)
                                   ],
                                 ),
                                 child: Text(
@@ -155,8 +168,8 @@ class ChallengeEnd extends StatelessWidget {
                                   boxShadow: const [
                                     BoxShadow(
                                         color: Colors.red,
-                                        blurRadius: 15,
-                                        spreadRadius: 2)
+                                        blurRadius: 3,
+                                        spreadRadius: 1)
                                   ],
                                 ),
                                 child: Text(
@@ -177,8 +190,8 @@ class ChallengeEnd extends StatelessWidget {
                 ],
               ),
             ),
-          ),
-        ),
+          );
+        }
       ),
     );
   }
