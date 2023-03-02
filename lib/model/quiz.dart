@@ -4,15 +4,14 @@ class QuizFields {
   static const String keyId = 'ID';
   static const String keyCreatedTime = 'created_time';
   static const String keyWords = 'words';
-  // static const String keyEndTime = 'end_time';
-  // static const String keyIsDone = 'is_done';
 }
 
 class Quiz {
 
-  String? id;
+  int? id;
   DateTime? createdTime;
-  List<Map>? words;
+  List<dynamic>? words;
+  List<QuizWord>? quizWords;
 
   Quiz({this.id, this.createdTime, this.words});
 
@@ -20,6 +19,10 @@ class Quiz {
     id = parsedJson[QuizFields.keyId];
     createdTime = DateTime.parse(parsedJson[QuizFields.keyCreatedTime]);
     words = jsonDecode(parsedJson[QuizFields.keyWords]);
+    quizWords = [];
+    for(var element in words!){
+      quizWords!.add(QuizWord.fromJson(element));
+    }
   }
 
   Map<String,dynamic> toJson(){
@@ -29,4 +32,14 @@ class Quiz {
     };
   }
 
+}
+
+class QuizWord{
+  int? idWord;
+  int? correct;
+
+  QuizWord.fromJson(Map parseJson){
+    idWord = parseJson['id_word'];
+    correct = parseJson['correct'];
+  }
 }

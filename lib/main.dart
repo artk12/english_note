@@ -2,6 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'package:word_learning/database/database.dart';
 import 'package:word_learning/load_assets/load_assets.dart';
+import 'package:word_learning/model/quiz.dart';
 import 'package:word_learning/model/word_counter.dart';
 import 'package:word_learning/screens/home_page_screen/home_page_screen.dart';
 import 'package:word_learning/screens/search_screen/search_screen.dart';
@@ -9,6 +10,7 @@ import 'package:word_learning/state_managers/providers/refresh_provider.dart';
 import 'package:word_learning/theme.dart';
 
 import 'model/tense.dart';
+import 'model/word.dart';
 
 void main() {
   runApp(const MyApp());
@@ -24,6 +26,8 @@ class MyApp extends StatelessWidget {
         ChangeNotifierProvider.value(value: RefreshProvider()),
         FutureProvider<List<Tense>>(create: (context)=> LoadFromAssets.getTenses(),initialData: const [],),
         FutureProvider<List<WordCounter>>(create: (context)=> WordDatabase.instance.readAllWordCounter(),initialData: const [],),
+        FutureProvider<List<Word>>(create: (context)=> WordDatabase.instance.readAllWord(),initialData: const [],),
+        FutureProvider<List<Quiz>>(create: (context)=> WordDatabase.instance.readAllQuizzes(),initialData: const [],),
       ],
       child: MaterialApp(
         title: 'Word Learning',

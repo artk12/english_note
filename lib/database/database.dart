@@ -58,7 +58,7 @@ class WordDatabase {
 
   Future<void> insertQuiz(Quiz q) async {
     final db = await instance.database;
-    int quizId = await db.insert('quiz', q.toJson());
+    await db.insert('quiz', q.toJson());
   }
 
   Future<int> deleteWord(int id) async {
@@ -110,5 +110,12 @@ class WordDatabase {
     );
 
     return result.map((e) => WordCounter.fromJson(e)).toList();
+  }
+  Future<List<Quiz>> readAllQuizzes() async {
+    final db = await instance.database;
+    final result = await db.query(
+      'quiz',
+    );
+    return result.map((e) => Quiz.fromJson(e)).toList();
   }
 }

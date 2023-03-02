@@ -6,6 +6,7 @@ import 'package:word_learning/database/database.dart';
 import 'package:word_learning/model/word_counter.dart';
 import 'package:word_learning/screens/new_word_screen/new_word_screen.dart';
 import 'package:word_learning/screens/quiz_screen/quiz_screen.dart';
+import 'package:word_learning/screens/statistics_screen/statistics_screen.dart';
 import 'package:word_learning/state_managers/providers/refresh_provider.dart';
 import 'package:word_learning/widgets/home_page_widget/card_list.dart';
 
@@ -101,7 +102,9 @@ class HomePageScreen extends StatelessWidget {
                         },
                         child: const Text('take a quiz')),
                     ElevatedButton(
-                        onPressed: () {}, child: const Text('statistics')),
+                        onPressed: () {
+                          Navigator.of(context).push(MaterialPageRoute(builder: (context) => const StatisticsScreen()));
+                        }, child: const Text('statistics')),
                     ElevatedButton(
                         onPressed: () {
                           Navigator.of(context).push(MaterialPageRoute(
