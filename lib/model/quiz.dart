@@ -1,5 +1,7 @@
 import 'dart:convert';
 
+import 'package:word_learning/model/word_counter.dart';
+
 class QuizFields {
   static const String keyId = 'ID';
   static const String keyCreatedTime = 'created_time';
@@ -12,11 +14,12 @@ class Quiz {
   DateTime? createdTime;
   List<dynamic>? words;
   List<QuizWord>? quizWords;
+  List<WordCounter>? wordCounter;
 
-  Quiz({this.id, this.createdTime, this.words});
+  Quiz({this.id, this.createdTime, this.words,this.wordCounter});
 
   Quiz.fromJson(Map parsedJson){
-    id = parsedJson[QuizFields.keyId];
+    id = int.parse(parsedJson[QuizFields.keyId]);
     createdTime = DateTime.parse(parsedJson[QuizFields.keyCreatedTime]);
     words = jsonDecode(parsedJson[QuizFields.keyWords]);
     quizWords = [];

@@ -42,7 +42,7 @@ class StatisticsScreen extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    List<Word> words = Provider.of<List<Word>>(context);
+    // List<Word> words = Provider.of<List<Word>>(context);
     List<WordCounter> counter = Provider.of<List<WordCounter>>(context);
     List<Quiz> quizzes = Provider.of<List<Quiz>>(context);
     int wordAnswered = 0;
@@ -63,6 +63,15 @@ class StatisticsScreen extends StatelessWidget {
       appBar: AppBar(
         backgroundColor: Theme.of(context).scaffoldBackgroundColor,
         centerTitle: true,
+        leading: IconButton(
+          icon: const Icon(
+            Icons.arrow_back_ios,
+            color: Colors.blueGrey,
+          ),
+          onPressed: () {
+            Navigator.of(context).pop();
+          },
+        ),
         title: Text(
           "Statistics",
           style: Theme.of(context)

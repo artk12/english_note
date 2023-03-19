@@ -1,12 +1,14 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-import 'package:flutter/services.dart';
 import 'package:sqflite/sqflite.dart';
 import 'package:path/path.dart';
+import 'package:word_learning/database/queries.dart';
 import 'package:word_learning/load_assets/load_assets.dart';
 import 'package:word_learning/model/word.dart';
 import 'package:word_learning/model/word_counter.dart';
+import 'package:http/http.dart' as http;
+import 'package:word_learning/requests/requests.dart';
 
 import '../model/quiz.dart';
 
@@ -44,30 +46,36 @@ class WordDatabase {
 
   Future saveWordGroup(List<Word> words) async {
     for (var element in words) {
-      insertWord(element);
+      await insertWord(element);
     }
   }
 
   Future<Word> insertWord(Word w) async {
-    final db = await instance.database;
-    int wordId = await db.insert('words', w.toJson());
-    await db.insert(
-        'word_counter', WordCounter(idWord: wordId, repeat: 0).toJson());
-    return w.copyWith(id: wordId);
+    // final db = await instance.database;
+    // int wordId = await db.insert('words', w.toJson());
+    // await db.insert(
+    //     'word_counter', WordCounter(idWord: wordId, repeat: 0).toJson());
+    String res = await Requests.insertWords(w);
+    return w.copyWith(id: int.parse(res.toString()));
   }
 
   Future<void> insertQuiz(Quiz q) async {
-    final db = await instance.database;
-    await db.insert('quiz', q.toJson());
+    // List<String> queries = [];
+    // queries.add(Queries.insertQuiz(jsonEncode(q.words)));
+    // for (var element in q.wordCounter!) {
+    //   queries.add(Queries.updateWordCounter(element.idWord.toString(), (element.repeat! +1).toString()));
+    // }
+    await Requests.insertQuiz(q);
+
   }
 
-  Future<int> deleteWord(int id) async {
-    final db = await instance.database;
-    await db.delete('word_counter',
-        where: '${WordCounterFields.keyWord} = ?', whereArgs: [id]);
-    return await db
-        .delete('words', where: '${WordFields.keyId} = ?', whereArgs: [id]);
-  }
+  // Future<int> deleteWord(int id) async {
+  //   final db = await instance.database;
+  //   await db.delete('word_counter',
+  //       where: '${WordCounterFields.keyWord} = ?', whereArgs: [id]);
+  //   return await db
+  //       .delete('words', where: '${WordFields.keyId} = ?', whereArgs: [id]);
+  // }
 
   Future<int> updateWord(Word w) async {
     final db = await instance.database;
@@ -76,11 +84,10 @@ class WordDatabase {
   }
 
   Future updateWordCounter(WordCounter w) async {
-    final db = await instance.database;
-    WordCounter updated = w.copyWith(repeat: w.repeat! +1);
-    debugPrint(updated.toJson().toString());
-    var t = await db.update('word_counter', updated.toJson() ,where: '${WordCounterFields.keyId} = ?', whereArgs: [updated.id]);
-    debugPrint(t.toString());
+    // final db = await instance.database;
+    // WordCounter updated = w.copyWith(repeat: w.repeat! +1);
+    // var t = await db.update('word_counter', updated.toJson() ,where: '${WordCounterFields.keyId} = ?', whereArgs: [updated.id]);
+    // debugPrint(t.toString());
   }
 
   Future close() async {
@@ -89,33 +96,18 @@ class WordDatabase {
   }
 
   Future<List<Word>> readAllWord() async {
-    final db = await instance.database;
-    final result = await db.query(
-      'words',
-      orderBy: "ID DESC",
-    );
-
-    if (result.isEmpty) {
-      List<Word> words = await LoadFromAssets.get504Words();
-      saveWordGroup(words);
-      return words;
-    }
-    return result.map((e) => Word.fromJson(e)).toList();
+      return await Requests.readWords();
   }
 
   Future<List<WordCounter>> readAllWordCounter() async {
-    final db = await instance.database;
-    final result = await db.query(
-      'word_counter',
-    );
-
-    return result.map((e) => WordCounter.fromJson(e)).toList();
+    return await Requests.readWordCounter();
   }
   Future<List<Quiz>> readAllQuizzes() async {
-    final db = await instance.database;
-    final result = await db.query(
-      'quiz',
-    );
-    return result.map((e) => Quiz.fromJson(e)).toList();
+    // final db = await instance.database;
+    // final result = await db.query(
+    //   'quiz',
+    // );
+    // return result.map((e) => Quiz.fromJson(e)).toList();
+    return await Requests.readQuiz();
   }
 }

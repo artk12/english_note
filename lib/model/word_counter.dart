@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 class WordCounterFields {
   static const String keyId = 'ID';
   static const String keyWord = 'id_word';
-  static const String keyRepeat = 'repeat';
+  static const String keyRepeat = 'counter';
 }
 
 
@@ -17,9 +17,9 @@ class WordCounter {
   WordCounter({this.idWord,this.repeat,this.id});
 
   WordCounter.fromJson(Map parsedJson){
-    id = parsedJson[WordCounterFields.keyId];
-    idWord = parsedJson[WordCounterFields.keyWord];
-    repeat = parsedJson[WordCounterFields.keyRepeat];
+    id = int.parse(parsedJson[WordCounterFields.keyId].toString());
+    idWord = int.parse(parsedJson[WordCounterFields.keyWord].toString());
+    repeat = int.parse(parsedJson[WordCounterFields.keyRepeat].toString());
   }
 
   Map<String,dynamic> toJson(){

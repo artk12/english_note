@@ -60,7 +60,7 @@ class Word {
   static Word fromJson(Map<String, dynamic> map) {
 
     return Word(
-      id: map[WordFields.keyId],
+      id: int.parse(map[WordFields.keyId].toString()),
       word: map[WordFields.keyWord],
       translated: map[WordFields.keyTranslated],
       sentences: map[WordFields.keySentences],
@@ -90,9 +90,9 @@ class Word {
     String translated = params['Persian'];
     String description = params['definition'];
     Map<String, String> sentence = {
-      '0': params['example1'],
-      '1': params['example2'],
-      '2': params['example3']
+      '0': params['example1'].toString().replaceAll('/', '').replaceAll('"', ''),
+      '1': params['example2'].toString().replaceAll('/', '').replaceAll('"', ''),
+      '2': params['example3'].toString().replaceAll('/', '').replaceAll('"', ''),
     };
     // DateTime dateTime = DateTime.now();
     String year = '0';

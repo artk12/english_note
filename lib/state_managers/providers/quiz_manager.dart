@@ -81,10 +81,9 @@ class QuizManager extends ChangeNotifier{
     if(!isSavedDetail){
       isSavedDetail = true;
       for(WordCounter counter in chosenWordCounter){
-
         WordDatabase.instance.updateWordCounter(counter);
       }
-      Quiz q = Quiz(words: questionsRecorde,createdTime: DateTime.now());
+      Quiz q = Quiz(words: questionsRecorde,createdTime: DateTime.now(),wordCounter: chosenWordCounter);
       WordDatabase.instance.insertQuiz(q);
       Future.delayed(Duration.zero).then((value) {
         refreshProvider.refresh();

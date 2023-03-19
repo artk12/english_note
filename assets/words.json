@@ -19,11 +19,11 @@
       "Persian": "تیز ، زیرک",
       "definition": "sharp; eager; intense; sensitive",
       "persian": "تیز ، مشتاق ، شدید ، حساس",
-      "example1": "a. The butcher's keen knife cut through the meat.",
+      "example1": "a. The butchers keen knife cut through the meat.",
       "PersianExampleA": "چاقوی تیز قصاب گوشت را قطعه قطعه کرد",
       "example2": "b. My dog has a keen sense of smell.",
       "PersianExampleB": "سگ من حس بویایی قوی دارد",
-      "example3": "c. Bill's keen mind pleased all his teachers.",
+      "example3": "c. Bills keen mind pleased all his teachers.",
       "PersianExampleC": "ذهن تیزبین بیل همه معلمانش را خوشحال کرد."
     },
     {
@@ -45,7 +45,7 @@
       "Persian": "تدبیر",
       "definition": "ability to say the right thing",
       "persian": "توانایی گفتن سخن مناسب ، تدبیر ، کیاست",
-      "example1": "a. My aunt never hurts anyone's feelings because she always uses tact.",
+      "example1": "a. My aunt never hurts anyones feelings because she always uses tact.",
       "PersianExampleA": "خاله ام هرگز احساسات کسی را جریحه دار نمی کند چون که او همیشه باتدبیر است",
       "example2": "b. By the use of tact, Janet was able to calm her jealous husband.",
       "PersianExampleB": "ژانت توانست با استفاده از تدبیر شوهر حسودش را آرام کند",
@@ -123,7 +123,7 @@
       "Persian": "غیرعادی",
       "definition": "not used to something",
       "persian": "به چیزی عادت نداشتن ، نامانوس",
-      "example1": "a. Coming from Alaska, Claude was unaccustomed to Florida's heat.",
+      "example1": "a. Coming from Alaska, Claude was unaccustomed to Floridas heat.",
       "PersianExampleA": "چون  کلود اهل آلاسکا بود به گرمای فلوریدا عادت نداشت",
       "example2": "b. The king was unaccustomed to having people disobey him.",
       "PersianExampleB": "پادشاه به داشتن مردمی که از او سرپیچی کنند عادت نداشت",
@@ -151,9 +151,9 @@
       "persian": "صلاحیت داشتن ، واجد شرایط بودن",
       "example1": "a. I am trying to qualify for the job which is now vacant.",
       "PersianExampleA": "سعی می کنم برای شغلی که در حال حاضر بلاتصدی است واجد شرایط بشوم",
-      "example2": "b. Since Pauline can't carry a tune, she is sure that she will never qualify for the Girls' Chorus.",
+      "example2": "b. Since Pauline cant carry a tune, she is sure that she will never qualify for the Girls Chorus.",
       "PersianExampleB": "از آنجا که  پائولین  لحن رسائی ندارد مطمئن است که صلاحیت لازم برای گروه کر دختران را پیدا نخواهد کرد",
-      "example3": "c. You have to be over 5'5\" to qualify as a policeman in our town.",
+      "example3": "c. You have to be over 55\" to qualify as a policeman in our town.",
       "PersianExampleC": "قد شما باید بلندتر از ۵.۵ فوت باشد تا صلاحیت پلیس شدن در شهرمان را پیدا کنید"
     },
     {
@@ -192,7 +192,7 @@
       "PersianExampleA": "زمانی که هوا گرفته است تمام روز را در رختخواب می مانم",
       "example2": "b. I am unaccustomed to this dismal climate.",
       "PersianExampleB": "به این هوای گرفته عادت ندارم",
-      "example3": "c. As the dismal reports of the election came in, the senator's friends tactfully made no mention of them.",
+      "example3": "c. As the dismal reports of the election came in, the senators friends tactfully made no mention of them.",
       "PersianExampleC": "هنگامیکه گزارش مایوس کننده انتخابات رسید، دوستان سناتور از روی تدبیر اشاره ای به آن نکردند"
     },
     {
@@ -205,7 +205,7 @@
       "PersianExampleA": "برای انسان بسیار سخت است که تمام طول زمستان خیلی سرد را در درخ فورج سپری کند",
       "example2": "b. The jealous bachelor was treated in a frigid manner by his girlfriend",
       "PersianExampleB": "دوست مرد مجرد حسود با او به سردی برخورد کرد",
-      "example3": "c. Inside the butcher's freezer the temperature was frigid.",
+      "example3": "c. Inside the butchers freezer the temperature was frigid.",
       "PersianExampleC": "دمای داخل فریزر قصابی بسیار سرد بود"
     },
     {
@@ -257,7 +257,7 @@
       "PersianExampleA": "ریچارد دوست دارد جلوی تلویزیون دراز بکشد",
       "example2": "b. After reclining on her right arm for an hour, Maxine found that it had become numb.",
       "PersianExampleB": "بعد از اینکه ماکسیم یک ساعت روی بازوی راستش لم داد، متوجه شد بازویش به خواب رفته است",
-      "example3": "c. My dog's greatest pleasure is to recline by the warm fireplace.",
+      "example3": "c. My dogs greatest pleasure is to recline by the warm fireplace.",
       "PersianExampleC": "بزرگترین دلخوشی سگم، دراز کشیدن جلوی شومینه گرم است"
     },
     {
@@ -374,7 +374,7 @@
       "PersianExampleA": "آیا می توانی او را تشویق کنی که روزهای مجردیش را رها کند و ازدواج نماید؟",
       "example2": "b. No one could persuade the captain to leave the sinking ship.",
       "PersianExampleB": "هیچ کس نتوانست ناخدا را متقاعد کند تا کشتی در حال غرق شدن را ترک کند",
-      "example3": "c. Beth's shriek persuaded Jesse that she was in real danger.",
+      "example3": "c. Beths shriek persuaded Jesse that she was in real danger.",
       "PersianExampleC": " فریاد  بث  جسی را متقاعد کرد که او در معرض خطر جدی است"
     },
     {
@@ -426,7 +426,7 @@
       "PersianExampleA": "الماس ها به علت کمیابی گران هستند",
       "example2": "b. Margarine is much less expensive than butter.",
       "PersianExampleB": "کره بسیار گرانتر از مارگاین است",
-      "example3": "c. Shirley's expensive dress created a great deal of excitement at the party.",
+      "example3": "c. Shirleys expensive dress created a great deal of excitement at the party.",
       "PersianExampleC": "لباس گرانبهای  شرلی  هیجان زیادی در مهمانی به وجود آورد"
     },
     {
@@ -435,7 +435,7 @@
       "Persian": "استعداد",
       "definition": "natural ability",
       "persian": "توانایی ذاتی",
-      "example1": "a. Medori's talent was noted when she was in first grade.",
+      "example1": "a. Medoris talent was noted when she was in first grade.",
       "PersianExampleA": "استعداد  مدوری  وقتی کلاس اول بود مورد توجه قرار گرفت",
       "example2": "b. Feeling that he had the essential talent, Carlos tried out for the school play.",
       "PersianExampleB": "کارلوس که احساس می کرداستعداد لازم را دارد، شرکت در مسابقه مدرسه را امتحان کرد",
@@ -489,7 +489,7 @@
       "persian": "رها شدن از ، برداشتن ، حذف کردن",
       "example1": "a. When the railroad tracks are raised, the danger of crossing will be eliminated.",
       "PersianExampleA": "وقتی ریل راه آهن بالا برده می شود، خطر تصادف رفع می شود",
-      "example2": "b. When figuring the cost of a car, don't eliminate such extras as air conditioning.",
+      "example2": "b. When figuring the cost of a car, dont eliminate such extras as air conditioning.",
       "PersianExampleB": "هنگام حساب کردن قیمت یک ماشین، لوازم اضافی مثل دستگاه تهویه هوا را حذف نکنید",
       "example3": "c. If we were to eliminate all reclining chairs, no one would fall asleep while watching television.",
       "PersianExampleC": "اگر همه ی صندلی های راحتی را بیرون می بردیم، هیچ کس هنگام تماشای تلویزیون به خواب نمی رفت"
@@ -515,7 +515,7 @@
       "persian": "متراکم ، غلیظ",
       "example1": "a. The dense leaves on the trees let in a minimum of sunlight.",
       "PersianExampleA": "برگ های انبوه روی درختان مقدار کمی از نور خورشید را از خود عبور می دهند",
-      "example2": "b. We couldn't row because of the dense weeds in the lake.",
+      "example2": "b. We couldnt row because of the dense weeds in the lake.",
       "PersianExampleB": "به خاطر وجود علف های هرز انبوه در رودخانه نمی توانستیم پارو بزنیم",
       "example3": "c. His keen knife cut through the dense jungle.",
       "PersianExampleC": "با چاقوی تیزش از میان جنگل انبوه راه عبور را باز کرد"
@@ -552,7 +552,7 @@
       "Persian": "تئوری ، نظریه",
       "definition": "explanation based on thought, observation, or reasoning",
       "persian": "توضیح بر اساس اندیشه ، مشاهده یا استدلال ، نظریه ، فرضیه",
-      "example1": "a. Einstein's theory is really too difficult for the average person to understand.",
+      "example1": "a. Einsteins theory is really too difficult for the average person to understand.",
       "PersianExampleA": "فهم نظریه انیشتین برای افراد عادی واقعاً دشوار است",
       "example2": "b. My uncle has a theory about the effect of weather on baseball batters.",
       "PersianExampleB": "عموی من نظریه ای راجع به تاثیر آب و هوا بر توپ زن های بازی بیس بال دارد",
@@ -578,7 +578,7 @@
       "Persian": "گشتن ، دور زدن",
       "definition": "go around; go from place to place or person to person",
       "persian": "پخش شدن ، از مکانی به مکانی یا از شخصی به شخصی رفتن",
-      "example1": "a. A fan may circulate the air in summer, but it doesn't cool it.",
+      "example1": "a. A fan may circulate the air in summer, but it doesnt cool it.",
       "PersianExampleA": "پنکه در تابستان می تواند هوا را به گردش درآورد اما آن را خنک نمی کند",
       "example2": "b. My father circulated among the guests at the party and made them feel comfortable.",
       "PersianExampleB": "پدرم در میان مهمان ها حرکت می کرد تا آنها احساس راحتی کنند",
@@ -656,7 +656,7 @@
       "Persian": "مسئولیت سنگین",
       "definition": "what is carried; a load",
       "persian": "آنچه حمل می شود ، بار",
-      "example1": "a. The burden of the country's safety is in the hands of the President.",
+      "example1": "a. The burden of the countrys safety is in the hands of the President.",
       "PersianExampleA": "مسئولیت امنیت کشور بر عهده رئیس جمهور است",
       "example2": "b. Irma found the enormous box too much of a burden.",
       "PersianExampleB": "ایرما  دریافت که جعبه بزرگ برای او سنگین است",
@@ -669,7 +669,7 @@
       "Persian": "محوطه دانشگاه یا مدرسه",
       "definition": "grounds of a college, university, or school",
       "persian": "محوطه ی یک دانشکده ، دانشکده یا مدرسه",
-      "example1": "a. The campus was designed to utilize all of the college's buildings.",
+      "example1": "a. The campus was designed to utilize all of the colleges buildings.",
       "PersianExampleA": "محوطه طوری طراحی شده بود که تمام ساختمان های کالج را در بر می گرفت",
       "example2": "b. Jeff moved off campus when he decided it was cheaper to live at home.",
       "PersianExampleB": "جف  وقتی فهمید که زندگی در خانه ارزان تر است، خوابگاه دانشگاه را ترک کرد",
@@ -725,7 +725,7 @@
       "PersianExampleA": "پیش بینی وضع هوا موضوع مورد علاقه صحبت ماست",
       "example2": "b. Valerie only discussed topics that she knew well.",
       "PersianExampleB": "والری تنها درباره موضوعاتی که خوب میدانست، بحث می کرد",
-      "example3": "c. The speaker's main topic was how to eliminate hunger in this world.",
+      "example3": "c. The speakers main topic was how to eliminate hunger in this world.",
       "PersianExampleC": "موضوع اصلی سخنرانی، چگونگی از بین بردن گرسنگی در جهان بود"
     },
     {
@@ -760,11 +760,11 @@
       "Persian": "جستجو",
       "definition": "search into; examine thoroughly; investigate",
       "persian": "کاوش کردن ، کاملاً برررسی کردن ، تحقیق کردن",
-      "example1": "a. The lawyer probed the man's mind to see if he was innocent.",
+      "example1": "a. The lawyer probed the mans mind to see if he was innocent.",
       "PersianExampleA": "وکیل ذهن مرد را کاوش کرد تا بفهمد آیا او بی گناه است",
-      "example2": "b. After probing the scientist's theory, we proved it was correct.",
+      "example2": "b. After probing the scientists theory, we proved it was correct.",
       "PersianExampleB": "بعد از بررسی، ثابت کردیم که نظریه دانشمندان صحیح است",
-      "example3": "c. King Henry's actions were carefully probed by the noblemen.",
+      "example3": "c. King Henrys actions were carefully probed by the noblemen.",
       "PersianExampleC": "اعمال شاه هنری را اشرافیان دقیقاً بررسی می کردند"
     },
     {
@@ -840,7 +840,7 @@
       "persian": "خیلی کم اهمیت دادن یا توجه کردن به",
       "example1": "a. The senator neglected to make his annual report to Congress.",
       "PersianExampleA": "سناتور از ارایه گزارش سالانه به کنگره، غفلت کرد",
-      "example2": "b. Bob's car got dirty when he neglected to keep it polished.",
+      "example2": "b. Bobs car got dirty when he neglected to keep it polished.",
       "PersianExampleB": "ماشین باب کثیف شد وقتی او از براق کردن آن غفلت کرد",
       "example3": "c. It is essential that you do not neglect your homework.",
       "PersianExampleC": "خیلی مهم است که در انجام تکالیف غفلت نکنی"
@@ -864,11 +864,11 @@
       "Persian": "بی تردید",
       "definition": "certainly; beyond doubt",
       "persian": "قطعاً ، بدون شک",
-      "example1": "a. Ray's team undoubtedly had the best debators in our county.",
+      "example1": "a. Rays team undoubtedly had the best debators in our county.",
       "PersianExampleA": "گروه ری بدون شک بهترین مناظره کنندگان کشور را در اختیار دارد",
       "example2": "b. The pilgrims undoubtedly assembled to travel to Rome together.",
       "PersianExampleB": "زائران بدون شک جمع شده اند تا با هم به رم سفر کنند",
-      "example3": "c. If she didn't want to get into an argument, Valerie would have followed the majority undoubtedly.",
+      "example3": "c. If she didnt want to get into an argument, Valerie would have followed the majority undoubtedly.",
       "PersianExampleC": "اگر او وارد بحث نمی شد،  والری  بدون شک تابع اکثریت بود"
     },
     {
@@ -907,7 +907,7 @@
       "PersianExampleA": "وکیل به موکلش گفت، می تواند نتایج دادگاه را پیش بینی کند",
       "example2": "b. My uncle tried to get General Motors to be a client of his company.",
       "PersianExampleB": "عموی من سعی کرد توجه شرکت جنرال موتور را به عنوان مشتری شرکتش، جلب کند",
-      "example3": "c. If this restaurant doesn't improve its service, all its clients will vanish.",
+      "example3": "c. If this restaurant doesnt improve its service, all its clients will vanish.",
       "PersianExampleC": "اگر این رستوران خدماتش را بهتر نکند، تمام مشتریان خود را از دست می دهد"
     },
     {
@@ -946,7 +946,7 @@
       "PersianExampleA": "زوج جوان خواستند ازدواجشان را تا وقتی مطمئن شوند که می توانند بار ازدواج را به دوش بکشند به تاخیر اندازند",
       "example2": "b. I neglected to postpone the party because I thought everyone would be able to come.",
       "PersianExampleB": "من فراموش کردم مهمانی را به وقت دیگر موکول کنم، زیرا فکر کردم همه می توانند بیایند",
-      "example3": "c. The supermarket's owner planned to postpone the grand opening until Saturday.",
+      "example3": "c. The supermarkets owner planned to postpone the grand opening until Saturday.",
       "PersianExampleC": "صاحب سوپر مارکت تصمیم گرفت مراسم افتتاحیه را به شنبه موکول کند"
     },
     {
@@ -998,7 +998,7 @@
       "PersianExampleA": "وکلا می خواستند از تغییر در اصلاحات جدید قانون جلوگیری کنند",
       "example2": "b. Farmers feel that their rural homes should be preserved.",
       "PersianExampleB": "کشاورزان احساس می کردند که باید از خانه های روستایشان محافظت شود",
-      "example3": "c. Records of Hank Aaron's home runs will undoubtedly be preserved in the Baseball Hall of Fame.",
+      "example3": "c. Records of Hank Aarons home runs will undoubtedly be preserved in the Baseball Hall of Fame.",
       "PersianExampleC": "رکورد بازکنان محوطه زمین در بازی بیس بال، بدون شک در تالار شهرت ضبط می شوند"
     },
     {
@@ -1074,7 +1074,7 @@
       "persian": "تاریک ، کم نور ، با روحیه ی پایین",
       "example1": "a. My cousin was gloomy because his best friend had moved away.",
       "PersianExampleA": "پسر عموی من دلگیر بود از اینکه بهترین دوستش رفته است",
-      "example2": "b. The reason Doris wasn't popular was that she always had a gloomy appearance.",
+      "example2": "b. The reason Doris wasnt popular was that she always had a gloomy appearance.",
       "PersianExampleB": "دلیل عدم محبوبیت  دوریس این بود که او همیشه ظاهر افسرده ای داشت",
       "example3": "c. Jones Beach is not so beautiful on a gloomy day.",
       "PersianExampleC": "ساحل  جونز در روزهای ابری و کم نور به این قشنگی نیست"
@@ -1087,7 +1087,7 @@
       "persian": "از قبل نامعلوم ، غیر منتظره ، پیش بینی نشده",
       "example1": "a. We had some unforeseen problems with the new engine.",
       "PersianExampleA": "مشکلات پیش بینی نشده ای با دستگاه جدید داشتیم",
-      "example2": "b. The probe into the Congressman's finances turned up some unforeseen difficulties.",
+      "example2": "b. The probe into the Congressmans finances turned up some unforeseen difficulties.",
       "PersianExampleB": "جستجو در امور مالی عضو کنگره، مشکلات پیش بینی نشده ای به همراه داشت",
       "example3": "c. The divers faced unforeseen trouble in their search for the wreck.",
       "PersianExampleC": "غواصان در جستجو برای یافتن لاشه، با مشکلات غیر منتظره ای روبرو شدند"
@@ -1098,11 +1098,11 @@
       "Persian": "مبالغه کردن",
       "definition": "make something greater than it is; overstate",
       "persian": "مبالغه کردن ، غلو کردن",
-      "example1": "a. He wasn't trying to deceive you when he said that his was the best car in the world; he was just exaggerating.",
+      "example1": "a. He wasnt trying to deceive you when he said that his was the best car in the world; he was just exaggerating.",
       "PersianExampleA": "وقتی که گفت ماشینش بهترین ماشین دنیاست سعی نکرد شما را فریب دهد او فقط مبالغه می کرد",
       "example2": "b. The bookkeeper exaggerated her importance to the company.",
       "PersianExampleB": "دفتر دار درباره اهمیت خود برای شرکت غلو کرد",
-      "example3": "c. When he said that Shaquille O'Neal was eight feet tall, he was undoubtedly exaggerating.",
+      "example3": "c. When he said that Shaquille ONeal was eight feet tall, he was undoubtedly exaggerating.",
       "PersianExampleC": "بدون شک داشت غلو میکرد وقتی گفت قد  شکیل اونیل  هشت فوت است"
     },
     {
@@ -1113,7 +1113,7 @@
       "persian": "کسی که کاری را برای لذت انجام می دهد نه برای پول یا به عنوان حرفه ، غیر حرفه ای ، آماتور",
       "example1": "a. The amateur cross-country runner wanted to be in the Olympics.",
       "PersianExampleA": "دونده آماتور دو صحرایی خواست در المپیک شرکت کند",
-      "example2": "b. After his song, Don was told that he wasn't good enough to be anything but an amateur.",
+      "example2": "b. After his song, Don was told that he wasnt good enough to be anything but an amateur.",
       "PersianExampleB": "بعد از آواز به  دان  گفته شد که او چیزی جز یک آماتور نیست",
       "example3": "c. Professional golfers resent amateurs who think they are as good as the people who play for money.",
       "PersianExampleC": "گلف بازان حرفه ای از آماتورهایی که فکر میکنن به خوبی افراد حرفه ای بازی میکنند، بیزارند"
@@ -1128,7 +1128,7 @@
       "PersianExampleA": "خانم ایوانز بعد از خواندن انشاء من گفت نه خوب است نه بد، و من میتوانم بهتر انجام دهم",
       "example2": "b. Howard was a mediocre scientist who never made any unique discoveries.",
       "PersianExampleB": "هوارد  دانشمندی معمولی است که هرگز نتوانست کشف منحصر به فردی داشته باشد",
-      "example3": "c. The movie wasn't a great one; it was only mediocre.",
+      "example3": "c. The movie wasnt a great one; it was only mediocre.",
       "PersianExampleC": "فیلم بسیار برجسته ای نبود، تنها یک فیلم معمولی بود"
     },
     {
@@ -1150,9 +1150,9 @@
       "Persian": "معتبر ،‌ قانونی",
       "definition": "supported by facts or authority; sound; true",
       "persian": "معتبر ، درست",
-      "example1": "a. The witness neglected to give valid answers to the judge's questions.",
+      "example1": "a. The witness neglected to give valid answers to the judges questions.",
       "PersianExampleA": "شاهد از دادن جواب های موثق به سوالات قاضی قصور کرد",
-      "example2": "b. Rita had valid reasons for denouncing her father's way of life.",
+      "example2": "b. Rita had valid reasons for denouncing her fathers way of life.",
       "PersianExampleB": "ریتا  برای نارضایتی از روش زندگی پدرش دلایل محکمی داشت",
       "example3": "c. When Dave presented valid working papers, the foreman consented to hiring him immediately.",
       "PersianExampleC": "بعد از اینک دیو  اجازه کار معتبری را ارائه کرد، سرکارگر بی درنگ به استخدام او رضایت داد"
@@ -1193,7 +1193,7 @@
       "PersianExampleA": "موکلم، تاجر مشهوری است",
       "example2": "b. Napoleon is a prominent figure in the history of France.",
       "PersianExampleB": "ناپلئون  شخصیت مهمی در تاریخ فرانسه است",
-      "example3": "c. Her violet eyes were the prominent feature of the model's face.",
+      "example3": "c. Her violet eyes were the prominent feature of the models face.",
       "PersianExampleC": "ویژگی مهم مدل صورت او، چشمان بنفش بود "
     },
     {
@@ -1219,7 +1219,7 @@
       "PersianExampleA": "چارلی  و   مارتی بسته جاگیر را از داخل اتومبیل برداشتند",
       "example2": "b. The massive desk was quite bulky and impossible to carry.",
       "PersianExampleB": "میز بزرگ کاملاً جاگیر و غیر قابل حمل بود",
-      "example3": "c. His client wanted an item that wasn't so bulky, Olsen told us.",
+      "example3": "c. His client wanted an item that wasnt so bulky, Olsen told us.",
       "PersianExampleC": "السن  به ما گفت که مشتریش چیزی میخواهد که اینقدر جاگیر نباشد"
     },
     {
@@ -1241,7 +1241,7 @@
       "Persian": "آشکار ، واضح",
       "definition": "easily seen or understood; clear to the eye or mind; not to be doubted; plain",
       "persian": "به راحتی درک یا دیده می شود ، در آن تردیدی نیست ، آشکار ، واضح ، بدیهی ",
-      "example1": "a. It was obvious that the lumberjack was tired after his day's work.",
+      "example1": "a. It was obvious that the lumberjack was tired after his days work.",
       "PersianExampleA": "بدیهی است که چوب بر پس از کار روزانه اش خسته می شود",
       "example2": "b. The fact that Darcy was a popular boy was obvious to all.",
       "PersianExampleB": "این حقیقت که  دارسی  پسر محبوبی است، برای همه آشکار بود",
@@ -1280,7 +1280,7 @@
       "Persian": "خشم",
       "definition": "violent anger; something that arouses intense but brief enthusiasm",
       "persian": "خشم شدید ، چیزی که علاقه ی شدید اما مختصر بر می انگیزد",
-      "example1": "a. Joan's bad manners sent her mother into a rage.",
+      "example1": "a. Joans bad manners sent her mother into a rage.",
       "PersianExampleA": "بد رفتاری جوان خشم مادرش را برانگیخت",
       "example2": "b. In a fit of rage, Francine broke the valuable glass.",
       "PersianExampleB": "فرانکین در یک جنون آنی لیوان قیمتی را شکست",
@@ -1323,7 +1323,7 @@
       "PersianExampleA": "هیئت منصفه به این نتیجه رسید که نوجوانان بی تردید مقصر هستند",
       "example2": "b. It is undeniable that most professionals can beat any amateur.",
       "PersianExampleB": "مشخص است که اکثر افراد حرفه ای می توانند هر فرد غیر حرفه ای را شکست دهند",
-      "example3": "c. That Leon resented Rita's good marks in school was undeniable.",
+      "example3": "c. That Leon resented Ritas good marks in school was undeniable.",
       "PersianExampleC": "اینکه لئون از نمرات خوب ریتا در مدرسه تنفر داشت غیر قابل انکار بود"
     },
     {
@@ -1334,7 +1334,7 @@
       "persian": "عمل کردن برخلاف ، مخالفت کردن با ، مقاومت کردن",
       "example1": "a. Totie could not resist eating the chocolate sundae.",
       "PersianExampleA": "توتی نمی توانست جلوی خودش را بگیرد و بستنی میوه ای شکلاتی نخورد",
-      "example2": "b. Tight security measures resisted Jimmy's entrance into the bank.",
+      "example2": "b. Tight security measures resisted Jimmys entrance into the bank.",
       "PersianExampleB": "اقدامات شدید امنیتی مانع ورود جیمی به بانک شد",
       "example3": "c. Harold resisted the opportunity to poke fun at the weird man.",
       "PersianExampleC": "هارولد با فرصت خندیدن به مرد جدید مقاومت کرد"
@@ -1358,7 +1358,7 @@
       "Persian": "نادیده گرفتن",
       "definition": "pay no attention to; disregard",
       "persian": "توجه نکردن به ، نادیده گرفتن",
-      "example1": "a. Little Alice realized that if she didn't behave, her parents would ignore her.",
+      "example1": "a. Little Alice realized that if she didnt behave, her parents would ignore her.",
       "PersianExampleA": "آلیس کوچولو متوجه شد که اگر مودب نباشد والدینش به او بی  توجهی می کنند",
       "example2": "b. The student could not answer the question because he ignored the obvious facts.",
       "PersianExampleB": "دانش آموز نتوانست به سوال پاسخ دهد زیرا حقایق واضح را نادیده گرفت",
@@ -1399,9 +1399,9 @@
       "persian": "مکانی که از آن چیزی نشات می گیرد ، منشا ، مبدا  ، سرچشمه ",
       "example1": "a. The college student knew that he needed more than a basic textbook as a source for his report.",
       "PersianExampleA": "دانشجو می دانست که به بیش از یک کتاب درسی پایه به عنوان مرجعی برای گزارشش نیاز دارد",
-      "example2": "b. The source of Buddy's trouble was boredom.",
+      "example2": "b. The source of Buddys trouble was boredom.",
       "PersianExampleB": "منشا مشکل بودی خستگی بود",
-      "example3": "c. Professor Smith's speech was a valid source of information on chemistry",
+      "example3": "c. Professor Smiths speech was a valid source of information on chemistry",
       "PersianExampleC": "سخنرانی پروفسور اسمیت منبع موثقی از اطلاعات درباره شیمی بود"
     },
     {
@@ -1440,7 +1440,7 @@
       "PersianExampleA": "گینگریچ نماینده کنگره، برای ایراد سخنرانی از تریبون بالا رفت",
       "example2": "b. The watchman mounted the tower to see if there were any people in the vicinity.",
       "PersianExampleB": "خواهرم نتوانست سوار اسب شود بنابراین آنها در عوض، یک اسب کوچک به او دادند",
-      "example3": "c. My sister couldn't mount the horse so they gave her a pony instead.",
+      "example3": "c. My sister couldnt mount the horse so they gave her a pony instead.",
       "PersianExampleC": "خواهرم نتوانست سوار اسب شود بنابراین آنها در عوض، یک اسب کوچک به او دادند"
     },
     {
@@ -1488,11 +1488,11 @@
       "Persian": "تهدید ، خطر",
       "definition": "threat",
       "persian": "تهدید",
-      "example1": "a. Irv's lack of respect made him a menace to his parents.",
+      "example1": "a. Irvs lack of respect made him a menace to his parents.",
       "PersianExampleA": "احترام نگذاشتن \"ایروا\" او را تبدیل به تهدیدی برای والدینش کرد",
-      "example2": "b. The torrents of rain were a menace to the farmer's crops.",
+      "example2": "b. The torrents of rain were a menace to the farmers crops.",
       "PersianExampleB": "رگبار باران، خطری برای محصولات کشاورزان بود",
-      "example3": "c. Sergeant Foy's raw language was an obvious menace to the reputation of the entire police department.",
+      "example3": "c. Sergeant Foys raw language was an obvious menace to the reputation of the entire police department.",
       "PersianExampleC": "سبک گفتار خام گروهبان \"فوی\" تهدیدی اشکار برای آبروی کلّ اداره ی پلیس بود"
     },
     {
@@ -1501,7 +1501,7 @@
       "Persian": "تمایل ، گرایش",
       "definition": "leaning; movement in a certain direction",
       "persian": "گرایش ، حرکت به سوی خاص ، تمایل",
-      "example1": "a. My algebra teacher has a tendency to forget the students' names.",
+      "example1": "a. My algebra teacher has a tendency to forget the students names.",
       "PersianExampleA": "معلم جبر من عادت دارد که نام دانش آموزان را فراموش کند",
       "example2": "b. His tendency was to work hard in the morning and then to take it easy in the afternoon.",
       "PersianExampleB": "عادت او این بود که صبح ها به سختی کار کند و سپس بعد از ظهر ها استراحت کند",
@@ -1514,9 +1514,9 @@
       "Persian": "کمتر  از حد برآورد کردن",
       "definition": "set too low a value, amount, or rate",
       "persian": "دست کم گرفتن",
-      "example1": "a. I admit that I underestimated the power in the bulky fighter's frame.",
+      "example1": "a. I admit that I underestimated the power in the bulky fighters frame.",
       "PersianExampleA": "من اعتراف می کنم که قدرت بدنی آن رزمنده تنومند را دست کم گرفتم",
-      "example2": "b. Undoubtedly the boss underestimated his employee's ability to work hard.",
+      "example2": "b. Undoubtedly the boss underestimated his employees ability to work hard.",
       "PersianExampleB": "بون شک رئیس توانای سخت کوشی کارمندش را ناچیز شمرد",
       "example3": "c. The value of our house was underestimated by at least two thousand dollars.",
       "PersianExampleC": "قیمت خانه ما حداقل دو هزار دولار کمتر از حد برآورد شد"
@@ -1531,7 +1531,7 @@
       "PersianExampleA": "جاینتز که در \"نیوجرسی\" بازی می کردند، دو سال پی در پی فاتح بودند",
       "example2": "b. Terry faced the challenge with the bad attitude that he could not be victorious.",
       "PersianExampleB": "تری با این تلقی که نمی تواند برنده شود، به آن مبارزه پرداخت.",
-      "example3": "c. Our girls' volleyball squad was victorious over a taller team.",
+      "example3": "c. Our girls volleyball squad was victorious over a taller team.",
       "PersianExampleC": "تیم والیبال دختران ما بیشتر از یک تیم بلند تر موفق بودند"
     },
     {
@@ -1557,7 +1557,7 @@
       "PersianExampleA": "اسباب بازی نرم بود و کودک به راحتی می توانست آن را خم کند",
       "example2": "b. Remaining flexible, Nick listened to arguments from both sides.",
       "PersianExampleB": "نیک با انعطاف پذیری به مباحثات هر دو جناح گوش داد",
-      "example3": "c. A mouse's flexible body allows it to squeeze through narrow openings.",
+      "example3": "c. A mouses flexible body allows it to squeeze through narrow openings.",
       "PersianExampleC": "بدن انعطاف پذیر موش، به او این امکان را می دهد که خود را از سوراخ کوچکی به زور عبور دهد"
     },
     {
@@ -1579,7 +1579,7 @@
       "Persian": "آدم گوشه گیر ،‌ تنها",
       "definition": "alone; single; only",
       "persian": "تنها ، مجرد ، انفرادی",
-      "example1": "a. Sid's solitary manner kept him from making new friendships.",
+      "example1": "a. Sids solitary manner kept him from making new friendships.",
       "PersianExampleA": "رفتار گوشه گیرانه \"ساید\" موجب شد که او دوستان جدیدی پیدا نکند",
       "example2": "b. There was not a solitary piece of evidence that Manuel had eaten the cheesecake.",
       "PersianExampleB": "تنها یک شاهد هم وجود نداشت که نشان دهد \"مانوئل\" کیک پنیر را خورده است",
@@ -1659,7 +1659,7 @@
       "persian": "سریع عمل نکردن ، مردد بودن ، تعلل کردن",
       "example1": "a. Nora hesitated to accept the challenge.",
       "PersianExampleA": "نورا مردد بود که دعوت به مبارزه رت بپذیرد",
-      "example2": "b. When he got to the robbers' vicinity, he hesitated before going on.",
+      "example2": "b. When he got to the robbers vicinity, he hesitated before going on.",
       "PersianExampleB": "وقتی که به نزدیکی سارقین رسید، قبل از جلوتر رفتن تامل کرد",
       "example3": "c. The proverb tells us that he who hesitates is lost.",
       "PersianExampleC": "ضرب المثل به ما می گوید هر کسی که شک کند، بازنده است"
@@ -1670,7 +1670,7 @@
       "Persian": "پوچ",
       "definition": "plainly not true or sensible; foolish",
       "persian": "به وضوح درست یا عاقلانه نیست ، احمقانه ، مسخره",
-      "example1": "a. It was absurd to believe the fisherman's tall tale.",
+      "example1": "a. It was absurd to believe the fishermans tall tale.",
       "PersianExampleA": "باور کردن داستان طولانی ماهیگیر، نامعقول بود",
       "example2": "b. The flabby boy realized that the suggestion to diet was not absurd.",
       "PersianExampleB": "پسر شکم گنده(فربه) فهمید که توصیه به گرفتن رژیم غذایی، بیهوده نبود",
@@ -1683,7 +1683,7 @@
       "Persian": "اختلاف",
       "definition": "direct opposition; disagreement",
       "persian": "مخالفت مستقیم ، عدم توافق ، تضاد",
-      "example1": "a. Our opinions about the company's success in the last decade are in conflict with what the records show.",
+      "example1": "a. Our opinions about the companys success in the last decade are in conflict with what the records show.",
       "PersianExampleA": "عقاید ما نسبت به موفقیت شرکت در دهه ی اخیر، با آنچه که سوابق نشان می دهند، مغایرت دارد",
       "example2": "b. There was a noisy conflict over who was the better tennis player.",
       "PersianExampleB": "درگیری پر سر و صدایی بود درباره اینکه چه کسی بازیکن بهتر تنیس است",
@@ -1696,7 +1696,7 @@
       "Persian": "اقلیت ، گروه اقلیت",
       "definition": "smaller number or part; less than half",
       "persian": "تعداد ی ابخش کوچکتر ، کمتر از نصف ، اقلیت",
-      "example1": "a. Only a small minority of the neighborhood didn't want a new park.",
+      "example1": "a. Only a small minority of the neighborhood didnt want a new park.",
       "PersianExampleA": "تنها اقلیت کوچکی از همسایگان، پارک جدید نمی خواستند",
       "example2": "b. A minority of our athletes who competed in the Olympics were victorious.",
       "PersianExampleB": "اقلیتی از ورزشکاران ما که در مسابقه ی المپیک شرکت کردند، برنده شدند",
@@ -1737,7 +1737,7 @@
       "persian": "کاملاً رها شدن از ، خاتمه دادن به",
       "example1": "a. The death penalty has recently been abolished in our state.",
       "PersianExampleA": "اخیراً مجازات اعدام در ایالت ما مُلغی شده است",
-      "example2": "b. We abolished numerous laws which didn't serve any purpose in this decade.",
+      "example2": "b. We abolished numerous laws which didnt serve any purpose in this decade.",
       "PersianExampleB": "ما قوانین متعددی را که هیچ کاربردی در این دهه نداشت لغو کردیم",
       "example3": "c. My school has abolished final exams altogether.",
       "PersianExampleC": "مدرسه ام امتحانات آخر ترم را به کلی برچیده است"
@@ -1772,7 +1772,7 @@
       "lesson": "12",
       "word": "Frank",
       "Persian": "رک و راست",
-      "definition": "free in expressing one's real thoughts, opinions, or feelings; not hiding what is in one's mind",
+      "definition": "free in expressing ones real thoughts, opinions, or feelings; not hiding what is in ones mind",
       "persian": "در بیان اندیشه ها ، عقاید و احساسات واقعی آزاد است ، آنچه در ذهن است پنهان نمی کند ، رک",
       "example1": "a. Never underestimate the value of being frank with one another.",
       "PersianExampleA": "هرگز ارزش روراست بودن با یکدیگر را دست کم نگیرید",
@@ -1813,7 +1813,7 @@
       "Persian": "قدغن کردن",
       "definition": "forbid by law or authority",
       "persian": "قانوناً منع کردن",
-      "example1": "a. Elvin's manager prohibited him from appearing on television.",
+      "example1": "a. Elvins manager prohibited him from appearing on television.",
       "PersianExampleA": "مدیرِ \"الوین\" از حضورِ او در تلویزیون ممانعت کرد",
       "example2": "b. Many homeowners prohibit others from walking on their property.",
       "PersianExampleB": "بسیاری از مالکین از قدم زدن در ملکشان جلوگیری می کنند",
@@ -1826,9 +1826,9 @@
       "Persian": "فوری",
       "definition": "demanding immediate action or attention; important",
       "persian": "اقدام یا توجه فوری را می طلبد ، مهم",
-      "example1": "a. An urgent telephone call was made to the company's treasurer.",
+      "example1": "a. An urgent telephone call was made to the companys treasurer.",
       "PersianExampleA": "یک تماس فوری به خزانه دار شرکت شد",
-      "example2": "b. The principal called an urgent meeting to solve the school's numerous problems.",
+      "example2": "b. The principal called an urgent meeting to solve the schools numerous problems.",
       "PersianExampleB": "مدیر مدرسه یک جلسه ی اضطراری برای حل مشکلات عدیده ی مدرسه تشکیل داد",
       "example3": "c. When he heard the urgent cry for help, the lifeguard did not hesitate.",
       "PersianExampleC": "نجات غریق وقتی صدای فریاد برای درخواست کمک اضطراری را شنید، درنگ نکرد"
@@ -1843,7 +1843,7 @@
       "PersianExampleA": "غذای کافی به \"روور\" داده شد تا تمام روز را با آن سپری کند",
       "example2": "b. A bedroom, kitchen, and bath were adequate shelter for his living needs.",
       "PersianExampleB": "یک اتاق خواب، آشپزخانه، و حمام، سرپناه رضایت بخشی برای نیازهای زندگی او بود",
-      "example3": "c. Carlos was adequate at his job but he wasn't great.",
+      "example3": "c. Carlos was adequate at his job but he wasnt great.",
       "PersianExampleC": "کارلوس در کارش نسبتا خوب بود اما عالی نبود"
     },
     {
@@ -1865,11 +1865,11 @@
       "Persian": "قابل شنیدن ، رسا",
       "definition": "able to be heard",
       "persian": "قابل سمع",
-      "example1": "a. From across the room, the teacher's voice was barely audible.",
+      "example1": "a. From across the room, the teachers voice was barely audible.",
       "PersianExampleA": "از آن طرف اتاق، صدای معلم به سختی قابل شنیدن بود",
       "example2": "b. After Len got his new hearing aid, my telephone calls became audible.",
       "PersianExampleB": "بعد از اینکه \"لن\" سمعک جدیدش را گذاشت، مکالمات تلفنی من برای او قابل شنیدن شد",
-      "example3": "c. Commands from Ann's drill sergeant were always easily audible.",
+      "example3": "c. Commands from Anns drill sergeant were always easily audible.",
       "PersianExampleC": "فرامین مشق نظام گروهبان \"آن\" همیشه به سادگی قابل شنیدن بود"
     },
     {
@@ -1880,7 +1880,7 @@
       "persian": "کسی که برای روزنامه یا مجله مطلب می نویسد ، ویرایش می کند و روزنامه یا مجله ای را تولید یا اداره می کند ، روزنامه نگار",
       "example1": "a. There were four journalists covering the murder story.",
       "PersianExampleA": "چهار روزنامه نگار از جریان قتل گزارش تهیه کردند",
-      "example2": "b. Barbara's experience working at a book store wasn't adequate preparation for becoming a journalist.",
+      "example2": "b. Barbaras experience working at a book store wasnt adequate preparation for becoming a journalist.",
       "PersianExampleB": "تجربه ی کاری \"باربارا\" در یک کتاب فروشی، به اندازه کافی او را برای روزنامه نگار شدن، آماده نکرد",
       "example3": "c. A journalist must have a comprehensive knowledge of the city where he or she works.",
       "PersianExampleC": "روزنامه نگار باید اطلاعات جامعی از شهری که در آن جا کار می کند، داشته باشد"
@@ -1917,7 +1917,7 @@
       "Persian": "شروع کردن",
       "definition": "begin; start",
       "persian": "آغاز کردن ، آغاز شدن",
-      "example1": "a. Graduation will commence at ten o'clock.",
+      "example1": "a. Graduation will commence at ten oclock.",
       "PersianExampleA": "جشن فارغ التحصیلی ساعت ده شروع خواهد شد",
       "example2": "b. Bella hesitated before commencing her speech.",
       "PersianExampleB": "جشن فارغ التحصیلی ساعت ده شروع خواهد شد",
@@ -1932,7 +1932,7 @@
       "persian": "تیز بین ، مراقب",
       "example1": "a. We were observant of the conflict between the husband and his wife.",
       "PersianExampleA": "ما مراقب نزاع بین شوهر و همسرش بودیم",
-      "example2": "b. Because Cato was observant, he was able to reveal the thief's name.",
+      "example2": "b. Because Cato was observant, he was able to reveal the thiefs name.",
       "PersianExampleB": "کاتو به خاطر دقیق بودن، توانست اسم درد را فاش سازد",
       "example3": "c. Milt used his excellent vision to be observant of everything in his vicinity.",
       "PersianExampleC": "میلت از بینش عالی خود استفاده کرد تا مراقب حوادث اطراف خود باشد"
@@ -1984,7 +1984,7 @@
       "persian": "قاطعانه ادامه دادن ، از توقف یا تغییر امتناع ورزیدن",
       "example1": "a. The humid weather persisted all summer.",
       "PersianExampleA": "آب و هوای مرطوب، تمام تابستان ادامه داشت",
-      "example2": "b. Would Lorraine's weird behavior persist, we all wondered?",
+      "example2": "b. Would Lorraines weird behavior persist, we all wondered?",
       "PersianExampleB": "همگی از خود می پرسیدیم آیا \"لورین\" به رفتار غیر عادی خود ادامه خواهد داد؟",
       "example3": "c. Lloyd persisted in exaggerating everything he said.",
       "PersianExampleC": "لوید در اغراق کردن هر چیزی که می گفت، ادامه می داد"
@@ -2023,7 +2023,7 @@
       "persian": "شخصی که نشریه ای را آماده می سازد ، کسیکه نسخه ای دست نویس را تصحیح می کند و به بهبود آن کمک میی کند ، ویراستار",
       "example1": "a. The student was proud to be the editor of the school newspaper.",
       "PersianExampleA": "دانش آموز احساس غرور کرد از اینکه سردبیر روزنامه مدرسه باشد",
-      "example2": "b. Meredith's journalistic knowledge came in handy when he was unexpectedly given the job of editor of The Bulletin.",
+      "example2": "b. Merediths journalistic knowledge came in handy when he was unexpectedly given the job of editor of The Bulletin.",
       "PersianExampleB": "وقتی به طور غیر منتظره ای شغل سردبیری \"بولتین\" به \"مردیت\" داده شد، دانش خبرنگاری او به دردش خورد",
       "example3": "c. It is undeniable that the magazine has gotten better since Ellis became editor.",
       "PersianExampleC": "مسلّم است که مجله از زمانی که \"الیس\" سردبیر شد، بهتر شده است"
@@ -2049,7 +2049,7 @@
       "persian": "رقیب ، حریف",
       "example1": "a. The boxer devised an attack which would help him to be victorious over his young rival.",
       "PersianExampleA": "بوکسور حمله ای را طراحی کرد که به او کمک کند تا بر حریف جوان خود، پیروز شود",
-      "example2": "b. Sherry didn't like to compete because she always thought her rival would win.",
+      "example2": "b. Sherry didnt like to compete because she always thought her rival would win.",
       "PersianExampleB": "شری دوست نداشت که در مسابقه شرکت نماید چون همیشه فکر می کرد حریفش برنده خواهد بود",
       "example3": "c. Seidman and Son decided to migrate to an area where they would have fewer rivals.",
       "PersianExampleC": "سیدمن و \"سان\" تصمیم گرفتند تا به منطقه ای بروند که رقبای کمتری داشته باشند"
@@ -2177,9 +2177,9 @@
       "Persian": "سردرگم کردن",
       "definition": "confused completely; puzzled",
       "persian": "کاملاً گیج ، مبهوت",
-      "example1": "a. The lawyer was bewildered by his client's lack of interest in the case.",
+      "example1": "a. The lawyer was bewildered by his clients lack of interest in the case.",
       "PersianExampleA": "وکیل از بی علاقگی موکلش به پرونده متحیر شد",
-      "example2": "b. His partner's weird actions left Jack bewildered.",
+      "example2": "b. His partners weird actions left Jack bewildered.",
       "PersianExampleB": "کارهای غیر عادی همسر \"جک\"، او را شگفت زده کرد",
       "example3": "c. Bewildered by the sudden hazy weather, he decided not to go to the beach.",
       "PersianExampleC": "او که از هوای غبارآلود ناگهانی، متحیر شده بود، تصمیم گرفت به ساحل نرود"
@@ -2207,7 +2207,7 @@
       "PersianExampleA": "من ناهار معمول خود را تغییر دادم و یک استیک جای آن خوردم",
       "example2": "b. Dorothy agreed to alter my dress if I would reveal its cost to her.",
       "PersianExampleB": "دوروتی قبول کرد به شرطی لباسم را تنگ کند که هزینه اش ر بگویم",
-      "example3": "c. It's absurd to spend money to alter that old candy store.",
+      "example3": "c. Its absurd to spend money to alter that old candy store.",
       "PersianExampleC": "احمقانه است که بخواهیم پول صرف تغییر دادن آن فروشگاه آب نبات فروشی قدیمی کنیم"
     },
     {
@@ -2285,7 +2285,7 @@
       "PersianExampleA": "ما دزد دوچرخه را تعقیب کردیم تا این که از دید ما ناپدید شد",
       "example2": "b. Ernie rowed up the river, pursuing it to its source.",
       "PersianExampleB": "ارنی با دنبال کردن رودخانه به سمت سرچشمه اش، در خلاف جهت آب پارو زد",
-      "example3": "c. The senior wanted to pursue urban affairs as his life's work.",
+      "example3": "c. The senior wanted to pursue urban affairs as his lifes work.",
       "PersianExampleC": "دانشجوی سالِ آخر، خواست رشته امور شهری را به عنوان شغل آتی خود ادامه دهد"
     },
     {
@@ -2346,7 +2346,7 @@
       "Persian": "لاغر ، کم و اندک",
       "definition": "long and thin; limited; slight",
       "persian": "کشیده و باریک ، محدود ، اندک",
-      "example1": "a. Carlotta's slender figure made her look somewhat taller than she was.",
+      "example1": "a. Carlottas slender figure made her look somewhat taller than she was.",
       "PersianExampleA": "اندام باریک \"کارلوتا\" او قدری بلندتر از آنچه که بود، نشان می داد",
       "example2": "b. There was only a slender chance that you could conceal the truth.",
       "PersianExampleB": "شانس اندکی وجود داشت که می توانستید حقیقت را کتمان کنید",
@@ -2389,7 +2389,7 @@
       "PersianExampleA": "دانشمندان تردید دارند که درمان کامل برای سرطان به زودی کشف شود",
       "example2": "b. The question of whether he could survive the winter was left in doubt.",
       "PersianExampleB": "این سوال که ایا او می توانست زمستان را سپری کند، مورد شک و تردید بود",
-      "example3": "c. We don't doubt that the tradition of marriage will continue.",
+      "example3": "c. We dont doubt that the tradition of marriage will continue.",
       "PersianExampleC": "شک نداریم که سنّت ازدواج پابرجا خواهد ماند"
     },
     {
@@ -2413,7 +2413,7 @@
       "persian": "داخل یا وارد شدن",
       "example1": "a. We had to penetrate the massive wall in order to hang the mirror.",
       "PersianExampleA": "ما مجبور بودیم دیوار محکم را سوراخ کنیم تا آینه را آویزان کنیم",
-      "example2": "b. Although Kenny tried to pound the nail into the rock with a hammer, he couldn't penetrate the hard surface.",
+      "example2": "b. Although Kenny tried to pound the nail into the rock with a hammer, he couldnt penetrate the hard surface.",
       "PersianExampleB": "گرچه \"کنی\" سعی کرد که با چکش میخ را به داخل سنگ بکوبد، اما نتوانست سطح سخت سنگ را سوراخ کند",
       "example3": "c. The thieves penetrated the banks security and stole the money.",
       "PersianExampleC": "دزدان توانستند به سیستم امنیتی بانک رخنه کنند و پول ها را بدزدند"
@@ -2439,7 +2439,7 @@
       "persian": "دقیق ، صحیح ، درست",
       "example1": "a. Ushers took an accurate count of the people assembled in the theatre.",
       "PersianExampleA": "بلیط فروشان شمارش دقیقی از افرادی که در تئاتر جمع شده بودند، انجام دادند",
-      "example2": "b. Emma's vision was so accurate that she didn't need glasses.",
+      "example2": "b. Emmas vision was so accurate that she didnt need glasses.",
       "PersianExampleB": "قدرت دید \"اما\" آنقدر دقیق بود که نیازی به عینک نداشت",
       "example3": "c. In writing on the topic, Vergil used accurate information.",
       "PersianExampleC": "ورژیل در نگارش درباره آن موضوع، از اطلاعات دقیقی استفاده نمود"
@@ -2452,7 +2452,7 @@
       "persian": "ابزاری دارای یک لنز برای بزرگتر کردن اشیاء که فرد بتواند آن ها را واضح تر ببیند ، میکروسکوپ ",
       "example1": "a. The students used a microscope to see the miniature insect.",
       "PersianExampleA": "دانش آموزان از میکروسکوپ برای دیدن حشره بسیار ریز استفاده کردند",
-      "example2": "b. When Young Oprah's birthday came around, her uncle gave her a microscope.",
+      "example2": "b. When Young Oprahs birthday came around, her uncle gave her a microscope.",
       "PersianExampleB": "وقتی تولد \"اوپرای\" جوان شد، عمویش یک میکروسکوپ به او داد",
       "example3": "c. Using a microscope, the scientist was able to probe into the habits of germs.",
       "PersianExampleC": "با به کار بردن میکروسکوپ، دانشمندان توانستند عملکرد میکروب ها را بررسی کنند"
@@ -2463,7 +2463,7 @@
       "Persian": "سپاسگزار",
       "definition": "feeling gratitude; thankful",
       "persian": "احساس قدر دانی کردن ، ممنون",
-      "example1": "a. The majority of pupils felt grateful for Mr. Ash's help.",
+      "example1": "a. The majority of pupils felt grateful for Mr. Ashs help.",
       "PersianExampleA": "اکثر دانش آموزان به خاطر کمک اقای \"اش\"، سپاسگزار بودند",
       "example2": "b. We were grateful that the gloomy weather cleared up on Saturday.",
       "PersianExampleB": "خوشحال بودیم که هوای ابری در روز شنبه صاف شد",
@@ -2526,9 +2526,9 @@
       "lesson": "17",
       "word": "Wary",
       "Persian": "مراقب",
-      "definition": "on one's guard against danger or trickery; cautious",
+      "definition": "on ones guard against danger or trickery; cautious",
       "persian": "مراقب در برابر خطر یا فریب ، محتاط",
-      "example1": "a. Marilyn's mother told her to be wary of strangers with a gleam in their eye.",
+      "example1": "a. Marilyns mother told her to be wary of strangers with a gleam in their eye.",
       "PersianExampleA": "مادر \"مارلین\" به او گفت که مواظب غریبه ها باشد",
       "example2": "b. After Orlando had been the victim of a cheat, he was wary of those who said they wanted to help him.",
       "PersianExampleB": "بعد از این که \"اولاندو\" قربانی یک تقلّب شد، مراقب کسانی بود که ادعا می کردند می خواهند به او کمک کنند",
@@ -2554,7 +2554,7 @@
       "Persian": "بدشانس",
       "definition": "bad luck",
       "persian": "بد شانسی",
-      "example1": "a. It was my misfortune that our car wasn't thoroughly checked before the trip through the desert.",
+      "example1": "a. It was my misfortune that our car wasnt thoroughly checked before the trip through the desert.",
       "PersianExampleA": "این بدشانسی من بود که اتومبیل ما، قبل از مسافرت به صحرا، به طور کامل چک نشد",
       "example2": "b. Being bitten by the vicious dog was quite a misfortune for Tommy.",
       "PersianExampleB": "برای \"تامی\" کاملا بدبیاری بود که یک سگ وحشی او را گاز بگیرد",
@@ -2580,7 +2580,7 @@
       "Persian": "فلاکت بار",
       "definition": "very unsatisfactory; miserable",
       "persian": "بسیار نامطلوب ، اسفبار",
-      "example1": "a. I feel wretched after a night when I've scarcely slept.",
+      "example1": "a. I feel wretched after a night when Ive scarcely slept.",
       "PersianExampleA": "بعد از یک شب بی خوابی احساس بسیار بدی دارم",
       "example2": "b. There was unanimous agreement that we had seen a wretched movie.",
       "PersianExampleB": "همه متفق القول بودیم که فیلم بسیار بدی را دیده ایم",
@@ -2645,7 +2645,7 @@
       "Persian": "انتخاب کردن",
       "definition": "choose or favor; select",
       "persian": "انتخاب کردن یا پسندیدن ، برگزیدن",
-      "example1": "a. If you give me an ice cream choice, I'll opt for chocolate.",
+      "example1": "a. If you give me an ice cream choice, Ill opt for chocolate.",
       "PersianExampleA": "اگر حق انتخاب بستنی به من بدهی، بستنی شکلاتی را انتخاب خواهم کرد",
       "example2": "b. Our cheerleaders plan to opt for new sweaters.",
       "PersianExampleB": "سردسته های تشویقگران (در مسابقات) تصمیم دارند که پلیورهای جدیدی انتخاب کنند",
@@ -2662,7 +2662,7 @@
       "PersianExampleA": "غم انگیز بود که تعدادی از پیشتازان، در مسیر رفتن به غرب کشته شدند",
       "example2": "b. If you had your choice between seeing a comedy or a tragedy, which play would you choose?",
       "PersianExampleB": "اگر حق انتخاب داشته باشی که یک فیلم کمدی ببینی یا تراژدی، کدام را انتخاب خواهی کرد؟",
-      "example3": "c. Harry's enormous jealousy led to the tragedy in their family.",
+      "example3": "c. Harrys enormous jealousy led to the tragedy in their family.",
       "PersianExampleC": "حسادت زیاد \"هاری\" در خانواده اش منجر به مصیبت شد"
     },
     {
@@ -2675,7 +2675,7 @@
       "PersianExampleA": "نوریس بعد از اینکه تمام روز را با اتوبوس رانندگی کرد، دوست داشت که پیاده و بدون برنامه ریزی قبلی یک مسیر طولانی را عصر آن روز بپیماید",
       "example2": "b. The police say it is urgent that pedestrians stay on the sidewalk.",
       "PersianExampleB": "پلیس می گوید ضروری است که عابران پیاده در پیاده رو بمانند",
-      "example3": "c. I don't doubt that a pedestrian can get places faster than a car in downtown traffic.",
+      "example3": "c. I dont doubt that a pedestrian can get places faster than a car in downtown traffic.",
       "PersianExampleC": "شک ندارم که یک عابر پیاده به دلیل ترافیک مرکز شهری می تواند زودتر از یک اتومبیل به مقصد برسد"
     },
     {
@@ -2749,7 +2749,7 @@
       "Persian": "ترسناک ، مهیب",
       "definition": "terrible; frightful",
       "persian": "وحشتناک ، ترسناک",
-      "example1": "a. Janey avoided staring at the horrid man's face.",
+      "example1": "a. Janey avoided staring at the horrid mans face.",
       "PersianExampleA": "جنی از خیره شدن به صورت مرد ترسناک اجتناب کرد",
       "example2": "b. It is simply horrid the way cars pollute the air we breathe.",
       "PersianExampleB": "کاملا وحشتناک است که اتومبیل ها اینطور هوایی را که استنشاق می کنیم، آلوده می سازند",
@@ -2814,7 +2814,7 @@
       "Persian": "درو کردن",
       "definition": "gathering in of grain or other food crops",
       "persian": "جمع آوری غلات یا دیگر محصولات غذایی",
-      "example1": "a. This year's harvest was adequate to feed all our people.",
+      "example1": "a. This years harvest was adequate to feed all our people.",
       "PersianExampleA": "محصول امسال به اندازه کافی بود تا همه مردم ما را سیر کند",
       "example2": "b. The farmer decided to expand his fields so that he would get a bigger harvest.",
       "PersianExampleB": "کشاورز تصمیم گرفت مزرعه خود را گسترش دهد تا محصول بیشتری برداشت نماید",
@@ -2842,7 +2842,7 @@
       "persian": "بیقرار ، آشفته ، نگران",
       "example1": "a. Mrs. Spinner was uneasy about letting her son play in the vicinity of the railroad tracks.",
       "PersianExampleA": "خانم \"اسپینر\" از اینکه به پسرش اجازه بازی در اطراف خطوط راه آهن را داده بود، دلواپس بود",
-      "example2": "b. The treasurer was uneasy about the company's budget",
+      "example2": "b. The treasurer was uneasy about the companys budget",
       "PersianExampleB": "خزانه دار در مورد بودجه شرکت، نگران بود",
       "example3": "c. Arnold felt uneasy about the meeting even though he tried to act in a casual manner.",
       "PersianExampleC": "آرنولد در مورد جلسه احساس نگرانی می کرد، اگرچه سعی می کرد که رفتارش عادی باشد"
@@ -2879,7 +2879,7 @@
       "Persian": "محاسبه کردن ، قضاوت",
       "definition": "form a judgment or opinion about; guess",
       "persian": "درباره چیزی اظهار نظر کردن ، حدس زدن",
-      "example1": "a. A.J. Foyt estimated that the auto race would commence at nine o'clock.",
+      "example1": "a. A.J. Foyt estimated that the auto race would commence at nine oclock.",
       "PersianExampleA": "ای.جی.فویت حدس زد که مسابقه اتومبیل رانی ساعت 9 شروع خواهد شد",
       "example2": "b. I try to avoid making estimates on things I know nothing about.",
       "PersianExampleB": "سعی می کنم از قضاوت در مورد چیزهایی که نمی دانم بپرهیزم",
@@ -2922,7 +2922,7 @@
       "PersianExampleA": "همیشه این تهدید ترسناک وجود دارد که کارم را از دست خواهم داد",
       "example2": "b. It is absurd to think that a tiny bug could be a threat to a person.",
       "PersianExampleB": "مضحک است که فکر کنیم یک حشره کوچک، می تواند تهدیدی برای انسان باشد",
-      "example3": "c. You can be arrested for making a threat against someone's life.",
+      "example3": "c. You can be arrested for making a threat against someones life.",
       "PersianExampleC": "شما اگر کسی را تهدید جانی کنید ممکن است دستگیر شوید"
     },
     {
@@ -2959,7 +2959,7 @@
       "persian": "مناسب ، کنار گذاشتن برای کاربرد خاصی",
       "example1": "a. At an appropriate time, the chief promised to reveal his plan.",
       "PersianExampleA": "رییس قول داد که در یک وقت مناسب طرحش را نشان دهد",
-      "example2": "b. The lawn was an appropriate setting for Eileen's wedding.",
+      "example2": "b. The lawn was an appropriate setting for Eileens wedding.",
       "PersianExampleB": "زمین چمن، محیط مناسبی برای جشن عروسی \"آیلین\" بود",
       "example3": "c. After some appropriate prayers, the dinner was served.",
       "PersianExampleC": "بعد از دعاهای مقتضی شام سرو شد"
@@ -2983,11 +2983,11 @@
       "Persian": "دندانه دار",
       "definition": "with sharp points sticking out; unevenly cut or torn",
       "persian": "دارای نوک های تیز که بیرون زده اند ، یکنواخت بریده یا پاره نشده است",
-      "example1": "a. Being reckless, Rudy didn't watch out for the jagged steel.",
+      "example1": "a. Being reckless, Rudy didnt watch out for the jagged steel.",
       "PersianExampleA": "رودی از روی غفلت، حواسش به آهن تیز نبود",
-      "example2": "b. It's an enormous job to smooth the jagged edge of a fence.",
+      "example2": "b. Its an enormous job to smooth the jagged edge of a fence.",
       "PersianExampleB": "کار بزرگی است که بخواهیم لبه های تیز نرده را صاف کنیم",
-      "example3": "c. Leslie's hair was so jagged it was scarcely possible to tell that it had just been cut.",
+      "example3": "c. Leslies hair was so jagged it was scarcely possible to tell that it had just been cut.",
       "PersianExampleC": "موهای \"لسی\" چنان پله پله بود که به سختی می شد گفت که تازگی موهایش را کوتاه کرده است"
     },
     {
@@ -2996,7 +2996,7 @@
       "Persian": "باقی ماندن ، طول کشیدن",
       "definition": "stay on; go slowly as if unwilling to leave",
       "persian": "ماندن ، آرام حرکت کردن ، گویی که مایل به ترک نیست",
-      "example1": "a. The odor didn't vanish but lingered on for weeks.",
+      "example1": "a. The odor didnt vanish but lingered on for weeks.",
       "PersianExampleA": "بو از بین نرفت بلکه تا چند هفته باقی ماند",
       "example2": "b. Some traditions linger on long after they have lost their meanings.",
       "PersianExampleB": "بعضی از سنّت ها تا مدت های مدید از بین نمی روند به رغم اینکه معنای خود را از دست داده اند",
@@ -3024,7 +3024,7 @@
       "persian": "ماهر در فریب دادن دیگران ، رند ، حقه باز",
       "example1": "a. His crafty mind prepared a comprehensive plan to defraud his partners.",
       "PersianExampleA": "ذهن زیرک او برای فریب شریک هایش نقشه جامعی را مهیا ساخت",
-      "example2": "b. Leo didn't use brutal strength against his opponents, but he used his crafty bag of tricks to beat them.",
+      "example2": "b. Leo didnt use brutal strength against his opponents, but he used his crafty bag of tricks to beat them.",
       "PersianExampleB": "لیو از قدرت وحشیانه اش بر علیه رقبایش استفاده نکرد، بلکه برای شکست آنها از حقه های زیرکانه زیادی استفاده نمود",
       "example3": "c. The Indians did not fail for the crafty ambush.",
       "PersianExampleC": "سرخ پوستان فریب کمینگاه زیرکانه (دشمن) را نخوردند"
@@ -3128,9 +3128,9 @@
       "persian": "درخواست ، خواهش ، آنچه از دیگری خواسته می شود",
       "example1": "a. The employees turned in a plea to their boss for higher pay.",
       "PersianExampleA": "کارمندان، حقوق بیشتری از رئیس خود درخواست کردند",
-      "example2": "b. The President's plea to release the captives was denied by the enemy.",
+      "example2": "b. The Presidents plea to release the captives was denied by the enemy.",
       "PersianExampleB": "درخواست رئیس جمهور برای آزادسازی اُسرا، توسط دشمن رد شد",
-      "example3": "c. In court today, the judge consented to the lawyer's plea for a light sentence.",
+      "example3": "c. In court today, the judge consented to the lawyers plea for a light sentence.",
       "PersianExampleC": "در دادگاه امروز قاضی با درخواست وکیل برای تخفیف مجازات برای موکل خود موافقت نمود"
     },
     {
@@ -3156,7 +3156,7 @@
       "PersianExampleA": "وقتی که دو اتومبیل به هم خوردند، افرادی که در اتومبیل کوچکتر بودند، جان خود را از دست دادند",
       "example2": "b. Committees are exploring ways of keeping cars from colliding.",
       "PersianExampleB": "هیئت های بررسی به دنبال کشف راه هایی برای جلوگیری اتومبیل ها از تصادف کردن هستند",
-      "example3": "c. In my estimate the two bicycles collided at five o'clock.",
+      "example3": "c. In my estimate the two bicycles collided at five oclock.",
       "PersianExampleC": "حدس می زنم که دو دوچرخه، ساعت پنج با هم تصادف کردند"
     },
     {
@@ -3167,7 +3167,7 @@
       "persian": "اثبات این که چیزی درست یا صحیح است ، اطمینان دادن",
       "example1": "a. The way Victor talked back to his mother confirmed that he was defiant.",
       "PersianExampleA": "نحوه پاسخگویی \"ویکتور\" به مادرش، نشان داد که او آدم گستاخی است",
-      "example2": "b. A probe of the criminal's background confirmed that he had been in jail numerous times.",
+      "example2": "b. A probe of the criminals background confirmed that he had been in jail numerous times.",
       "PersianExampleB": "بررسی پرونده متهم تایید کرد که قبلا دفعات زیادی در زندان بوده است",
       "example3": "c. Years of research confirmed the theory that smoking is harmful.",
       "PersianExampleC": "سال ها مطالعه، نظریه مضر بودن سیگار کشیدن را، مورد تایید قرار داد"
@@ -3243,7 +3243,7 @@
       "Persian": "انتقال دادن",
       "definition": "send over; pass on; pass along; let through",
       "persian": "فرستادن ، انتقال دادن ، عبور دادن",
-      "example1": "a. Garcia's message was transmitted to the appropriate people.",
+      "example1": "a. Garcias message was transmitted to the appropriate people.",
       "PersianExampleA": "پیغام \"گارسیا\" به افراد مناسب، ارسال شد",
       "example2": "b. Scientists can now transmit messages from space vessels to earth.",
       "PersianExampleB": "دانشمندان اکنونمی توانند پیام ها را از سفینه های فضایی به زمین ارسال کنند",
@@ -3362,7 +3362,7 @@
       "persian": "شوهر یا زن ، همسر",
       "example1": "a. When a husband prospers in his business, his spouse benefits also.",
       "PersianExampleA": "وقتی شوهری در کارش موفق می شود، همسر او نیز سود می برد",
-      "example2": "b. The woman and her spouse relieved each other throughout the night at their child's bedside.",
+      "example2": "b. The woman and her spouse relieved each other throughout the night at their childs bedside.",
       "PersianExampleB": "زن و همسرش در تمام شب، بر بالین بچه (بیمارشان) همدیگر را دلداری دادند",
       "example3": "c. \"May I bring my spouse to the office party?\" Dorinda asked.",
       "PersianExampleC": "دوریندا پرسید: \"آیا می توانم همسرم را به جشن اداره بیاورم؟\""
@@ -3373,9 +3373,9 @@
       "Persian": "حرفه",
       "definition": "occupation; business; profession; trade",
       "persian": "شغل ، کار ، حرفه ، کسب",
-      "example1": "a. Red Smith's vocation was as a journalist for the Times.",
+      "example1": "a. Red Smiths vocation was as a journalist for the Times.",
       "PersianExampleA": "حرفه \"رد اسمیت\"، روزنامه نگاری برای روزنامه \"تایمز\" بود",
-      "example2": "b. Hiroko's vocation turned into his life's career.",
+      "example2": "b. Hirokos vocation turned into his lifes career.",
       "PersianExampleB": "پیشه \"هیروکو\" به حرفه زندگی اش تبدیل شد",
       "example3": "c. It is difficult to pick an appropriate vocation when you are in elementary school.",
       "PersianExampleC": "وقتی که در مدرسه ابتدایی هستید، انتخاب کردن کار مناسب مشکل است"
@@ -3390,7 +3390,7 @@
       "PersianExampleA": "بعضی از آدم های متزلزل وقتی دچار گرفتاری می شوند، ممکن است دچار وحشت شوند",
       "example2": "b. I could detect that the drinking glass was unstable and about to fall.",
       "PersianExampleB": "متوجه شدم که لیوان نوشیدنی بی ثبات بود و داشت می افتاد",
-      "example3": "c. Cathy's balance became unstable because she was very weary.",
+      "example3": "c. Cathys balance became unstable because she was very weary.",
       "PersianExampleC": "وقتی \"کتی\" به شدت خسته شد، تعادلش بی ثبات شد"
     },
     {
@@ -3427,7 +3427,7 @@
       "persian": "کسی که از مزیتی بهره مند می شود ، ذینفع",
       "example1": "a. I was the beneficiary of $8,000 when my grandfather died.",
       "PersianExampleA": "وقتی پدربزرگم مرد، من وارث هشت هزار دولار بودم",
-      "example2": "b. When the paintings were sold, the millionaire's niece was the beneficiary.",
+      "example2": "b. When the paintings were sold, the millionaires niece was the beneficiary.",
       "PersianExampleB": "وقتی که نقاشی ها فروخته شد، خواهر زاده میلیونر، وارث او بود",
       "example3": "c. My brother was the beneficiary of excellent advice from his guidance counselor.",
       "PersianExampleC": "برادرم از نصایح خوب مشاور، منتفع شد"
@@ -3440,7 +3440,7 @@
       "persian": "حیوان خونسردی که می خزد ، مار ، مارمولک ، لاک پشت ، تمساح",
       "example1": "a. The lizard is a reptile with a very slender body.",
       "PersianExampleA": "مارمولک، نوعی خزنده با بدن خیلی باریک است",
-      "example2": "b. Reptiles are kept in the museum's large hall.",
+      "example2": "b. Reptiles are kept in the museums large hall.",
       "PersianExampleB": "خزندگان در تالار بزرگ موزه نگهداری می شوند",
       "example3": "c. A crocodile is a reptile that is more nimble in the water than out of it.",
       "PersianExampleC": "تمساح خزنده ای است که در آب چابک تر از خشکی است"
@@ -3516,7 +3516,7 @@
       "Persian": "احتیاط",
       "definition": "measures taken beforehand; foresight",
       "persian": "اقدام احتیاطی ، دوراندیشی",
-      "example1": "a. Detectives used precaution before entering the bomb's vicinity.",
+      "example1": "a. Detectives used precaution before entering the bombs vicinity.",
       "PersianExampleA": "کارآگاهان قبل از نزدیک شدن به بمب احتیاط را رعایت کردند",
       "example2": "b. We must take every precaution not to pollute the air.",
       "PersianExampleB": "ما بایستی هر اقدام احتیاطی را برای آلوده نکردن هوا انجام دهیم",
@@ -3542,7 +3542,7 @@
       "Persian": "قبلی ، قبل از",
       "definition": "coming before; earlier",
       "persian": "آمدن پیش از ، پیشین ، قبلی",
-      "example1": "a. Prior to choosing his life's vocation, Paul traveled to India.",
+      "example1": "a. Prior to choosing his lifes vocation, Paul traveled to India.",
       "PersianExampleA": "پُل قبل از انتخاب حرفه زندگی اش به هندوستان مسافرت کرد",
       "example2": "b. Myrna was unhappy prior to meeting her beau.",
       "PersianExampleB": "میرنا قبل از ملاقات با معشوقه اش ناراحت بود",
@@ -3557,7 +3557,7 @@
       "persian": "در آغوش گرفتن ، بغل کردن ، آغوش",
       "example1": "a. After having been rivals for years, the two men embraced.",
       "PersianExampleA": "دو مرد بعد از سال ها رقیب بودن، همدیگر را در آغوش گرفتند",
-      "example2": "b. When Ellen's spouse approached, she slipped out of Doug's embrace.",
+      "example2": "b. When Ellens spouse approached, she slipped out of Dougs embrace.",
       "PersianExampleB": "وقتی شوهر الن نزدیک شد الن از آغوش داگ گریخت",
       "example3": "c. The young girl was bewildered when the stranger embraced her.",
       "PersianExampleC": "دختر جوان وقتی شخص نا آشنا او را در آغوش کشید مبهوت شد"
@@ -3583,7 +3583,7 @@
       "persian": "نا تمام ، ناقص ، جزئی ، نسبی",
       "example1": "a. We made a partial listing of the urgently needed supplies.",
       "PersianExampleA": "ما یک فهرست ناقص از لوازم مورد نیاز خیلی مهم تهیه کردیم",
-      "example2": "b. Macy's had a sale on a partial selection of its winter clothes.",
+      "example2": "b. Macys had a sale on a partial selection of its winter clothes.",
       "PersianExampleB": "میسی یک گلچین جزئی از لباس های زمستانی خود را به حراج گذاشت",
       "example3": "c. Using only a partial amount of his great speed, Jim Ryun surpassed all the other runners.",
       "PersianExampleC": "جیم ریون تنها به کارگیری یک بخش جزئی از چالاکی خود، از همه دوندگان دیگر سبقت گرفت"
@@ -3607,11 +3607,11 @@
       "Persian": "متنفر بودن",
       "definition": "dislike very much; hate",
       "persian": "متنفر بودن از ، تنفر داشتن از",
-      "example1": "a. The world detests people who aren't valiant.",
+      "example1": "a. The world detests people who arent valiant.",
       "PersianExampleA": "مردم جهان از افراد ترسو بیزارند",
-      "example2": "b. Wally was certain that his girlfriend's parents would detest him because he had been a delinquent.",
+      "example2": "b. Wally was certain that his girlfriends parents would detest him because he had been a delinquent.",
       "PersianExampleB": " \"والی\" مطمئن بود که خانواده  دوستش از او متنفرند چون او خطاکار بوده است",
-      "example3": "c. I detest Chinese food but I won't deprive you of the chance to eat it.",
+      "example3": "c. I detest Chinese food but I wont deprive you of the chance to eat it.",
       "PersianExampleC": "من از غذای چینی بدم می آید اما شانس خوردن آن را از تو نمی گیرم"
     },
     {
@@ -3774,7 +3774,7 @@
       "lesson": "25",
       "word": "Baggage",
       "Persian": "اسباب سفر",
-      "definition": "the trunks and suitcases a person takes when he or she travels; an army's equipment",
+      "definition": "the trunks and suitcases a person takes when he or she travels; an armys equipment",
       "persian": "کیف ها و چمدان هایی که شخص هنگام سفر با خود می برد ، تجهیزات یک ارتش",
       "example1": "a. When Wait unpacked his baggage, he found he had forgotten his radio.",
       "PersianExampleA": "وقتی \"والت\" چمدانش را باز کرد، متوجه شد که رادیواش را فراموش کرده بود",
@@ -3800,13 +3800,13 @@
       "lesson": "25",
       "word": "Abroad",
       "Persian": "به کشور دیگر ، خارج از کشور",
-      "definition": "outside one's country; going around; far and wide",
+      "definition": "outside ones country; going around; far and wide",
       "persian": "خارج از وطن ، به خارج ، فراگیر ، گسترده",
       "example1": "a. More people are going abroad for vacations.",
       "PersianExampleA": "افراد بیشتری برای تعطیلات به خارج می روند",
       "example2": "b. Is there any truth to the rumor abroad that school will be open all summer?",
       "PersianExampleB": "آیا حقیقت دارد که همه جا شایعه شده است که مدرسه در تابستان یکسره باز خواهد بود؟",
-      "example3": "c. The news of the President's illness spread abroad.",
+      "example3": "c. The news of the Presidents illness spread abroad.",
       "PersianExampleC": "خبر بیماری رییس جمهور همه جا پیچیده بود"
     },
     {
@@ -3854,11 +3854,11 @@
       "Persian": "حسادت ، حسادت ورزیدن",
       "definition": "jealousy; the object of jealousy; to feel jealous",
       "persian": "حسادت ، مایه حسادت ، احساس حسادت کردن",
-      "example1": "a. Marilyn's selection as Prom Queen made her the envy of every senior.",
+      "example1": "a. Marilyns selection as Prom Queen made her the envy of every senior.",
       "PersianExampleA": "انتخاب \"مارلین\" به عنوان بهترین نفر در مجلس رقص (پایان سال تحصیلی)، حسادت همه دانشجویان سال آخری را برانگیخت",
-      "example2": "b. My parents taught me not to envy anyone else's wealth.",
+      "example2": "b. My parents taught me not to envy anyone elses wealth.",
       "PersianExampleB": "خانواده ام به من یاد دادند که حسرت ثروت دیگران را نخورم.",
-      "example3": "c. Our envy of Nora's skating ability is foolish because with practice all of us could do as well.",
+      "example3": "c. Our envy of Noras skating ability is foolish because with practice all of us could do as well.",
       "PersianExampleC": "حسادت ما نسبت به استعداد اسکیت بازی \"نورا\" احمقانه است، چون همه ما می توانیم با تمرین، به همان خوبی اسکیت بازی کنیم"
     },
     {
@@ -3869,7 +3869,7 @@
       "persian": "فروپاشی ، فرو ریختن ، خراب شدن ، ناگهان فروپاشیدن ، به هم تا کردن",
       "example1": "a. A heavy flood caused the bridge to collapse.",
       "PersianExampleA": "سیل شدیدی باعث فرو ریختن پل شد",
-      "example2": "b. His failure in chemistry meant the collapse of Bob's summer plans.",
+      "example2": "b. His failure in chemistry meant the collapse of Bobs summer plans.",
       "PersianExampleB": "مردود شدن \"باب\" در درس شیمی، به معنای به هم خوردن برنامه های تابستانی او بود",
       "example3": "c. Collapse the trays and store them in the closet.",
       "PersianExampleC": "سینی ها را جمع کن و آنها را در کمد قرار بده"
@@ -3910,7 +3910,7 @@
       "PersianExampleA": "اگر برایت مقدور است فردا شب با من تماس بگیر",
       "example2": "b. It is now possible for man to walk on the moon.",
       "PersianExampleB": "الآن برای بشر امکان پذیر است که روی کُره ماه راه برود",
-      "example3": "c. Considering Melissa's weakness in writing, it is not possible for her to help you with your composition.",
+      "example3": "c. Considering Melissas weakness in writing, it is not possible for her to help you with your composition.",
       "PersianExampleC": "با توجه به این که \"ملیسا\" در نگارش ضعیف است، برای او مقدور نیست که بتواند در انشا به شما کمک کند"
     },
     {
@@ -3997,11 +3997,11 @@
       "Persian": "نارو زدن ، لو دادن",
       "definition": "put an end to; drawn or put out",
       "persian": "خاتمه دادن ، خفه کردن ، خاموش کردن",
-      "example1": "a. Nick's awkward motions betrayed his nervousness.",
+      "example1": "a. Nicks awkward motions betrayed his nervousness.",
       "PersianExampleA": "حرکات ناجور \"نیک\" اضطراب او را نشان داد",
-      "example2": "b. Without realizing what he was doing, the talkative soldier betrayed his unit's plans.",
+      "example2": "b. Without realizing what he was doing, the talkative soldier betrayed his units plans.",
       "PersianExampleB": "سرباز وراج بدون این که متوجه کارش باشد، طرح های یگانش را فاش ساخت",
-      "example3": "c. The child's eyes betrayed his fear of the fierce dog.",
+      "example3": "c. The childs eyes betrayed his fear of the fierce dog.",
       "PersianExampleC": "چشم های کودک، ترس او را از سگ وحشی نشان می داد"
     },
     {
@@ -4012,7 +4012,7 @@
       "persian": "لو دادن ، بی وفا بودن  ،گمراه کردن ، نشان دادن",
       "example1": "a. When Violet accidentally stepped on the nail, she uttered a sharp cry of pain.",
       "PersianExampleA": "وقتی \"ویولت\" پایش را روی میخ گذاشت، از شدت درد جیغ بلندی کشید",
-      "example2": "b. Seth was surprised when he was told that he had uttered Joan's name in his sleep.",
+      "example2": "b. Seth was surprised when he was told that he had uttered Joans name in his sleep.",
       "PersianExampleB": "وقتی به \"ست\" گفتند که اسم \"جوان\" را در خواب بر زبان آورده است، متعجب شد",
       "example3": "c. When Mr. Fuller saw that his house had not been damaged in the fire, he uttered a sigh of relief.",
       "PersianExampleC": "وقتی آقای \"فولر\" دید خانه اش در آتش سوزی خسارت ندیده است، نفس راحتی کشید"
@@ -4075,7 +4075,7 @@
       "Persian": "متلاشی کردن",
       "definition": "upset; cause to break down",
       "persian": "به هم زدن ، مختل کردن",
-      "example1": "a. Pam's clowning disrupted the class every day.",
+      "example1": "a. Pams clowning disrupted the class every day.",
       "PersianExampleA": "دلقک بازی \"پام\" هر روز باعث به هم زدن کلاس می شد",
       "example2": "b. The storm disrupted the telephone lines throughout the area.",
       "PersianExampleB": "توفان خطوط تلفن را در سرتا سر منطقه مختل نمود",
@@ -4114,7 +4114,7 @@
       "Persian": "تا ته مصرف کردن ، خسته کردن",
       "definition": "empty completely; use up; tire out",
       "persian": "کاملاً تمام کردن ، کاملاً استفاده کردن ، خسته کردن",
-      "example1": "a. To exhaust the city's water supply would be a calamity",
+      "example1": "a. To exhaust the citys water supply would be a calamity",
       "PersianExampleA": "مصرف کردن دخیره آب شهر فاجعه خواهد بود",
       "example2": "b. The long climb to the top of the mountain exhausted our strength.",
       "PersianExampleB": "صعود به قله کوه، پاک نیروی ما را تحلیل برد",
@@ -4261,7 +4261,7 @@
       "PersianExampleA": "معلّم برای توضیح دادن اینکه قلب گونه خون را به سرتا سر بدن می فرستد، طریقه کار کردن یک پمپ را شرح داد",
       "example2": "b. This exhibit will illustrate the many uses of atomic energy.",
       "PersianExampleB": "این نمایشگاه موارد استفاده متعدد انرزی اتمی را شرح خوهد داد",
-      "example3": "c. These stories illustrate mark Twain's serious side.",
+      "example3": "c. These stories illustrate mark Twains serious side.",
       "PersianExampleC": "این داستان ها جنبه جدی شخصیت \"مارک تواین\" را توضیح خواهد داد"
     },
     {
@@ -4296,11 +4296,11 @@
       "Persian": "فاجعه",
       "definition": "an event that causes much suffering or loss; a great misfortune",
       "persian": "واقعه ای که باعث رنج و خسارت زیادی می شود ، بدبختی زیاد",
-      "example1": "a. The hurricane's violent winds brought disaster to the coastal town.",
+      "example1": "a. The hurricanes violent winds brought disaster to the coastal town.",
       "PersianExampleA": "بادهای شدید توفان؛ برای شهر ساحلی فاجعه به بار آورد",
       "example2": "b. The San Francisco earthquake and the Chicago fire are two of the greatest disasters in American history.",
       "PersianExampleB": "زلزله \"سانفرانسیسکو\" و آتش سوزی \"شیکاگو\" دو مورد از بزگترین وقایع ناگوار تاریخ آمریکا بودند",
-      "example3": "c. The coach considered the captain's injury a disaster for the team.",
+      "example3": "c. The coach considered the captains injury a disaster for the team.",
       "PersianExampleC": "مربی، صدمه دیدن کاپیتان را یک مصیبت برای تیم قلمداد کرد"
     },
     {
@@ -4389,9 +4389,9 @@
       "persian": "اشتباه احمقانه ، مرتکب اشتباه احمقانه ای شدن ، تلوتلو خوردن ، با دستپاچگی گفتن",
       "example1": "a. The exhausted boy blundered through the woods.",
       "PersianExampleA": "پسر خسته با هیزم ها برخورد کرد",
-      "example2": "b. Sert's awkward apology could not make up for his serious blunder.",
+      "example2": "b. Serts awkward apology could not make up for his serious blunder.",
       "PersianExampleB": "عذر خواهی ناجور \"برت\" نتوانست جبران اشتباه خیلی بدش را نماید",
-      "example3": "c. The general's blunder forced his army to a rapid retreat.",
+      "example3": "c. The generals blunder forced his army to a rapid retreat.",
       "PersianExampleC": "اشتباه بزرگ ژنرال، سپاه را وادار به عقب نشینی سریع نمود"
     },
     {
@@ -4430,7 +4430,7 @@
       "PersianExampleA": "بعد از اینکه باران های سیل اسا متوقف شدند، سیل فروکش کرد",
       "example2": "b. The waves subsided when the winds ceased to blow.",
       "PersianExampleB": "وقتی وزیدن باد قطع شد، امواج دریا آرام گرفت",
-      "example3": "c. Danny's anger subsided when the culprit apologized.",
+      "example3": "c. Dannys anger subsided when the culprit apologized.",
       "PersianExampleC": "وقتی شخص خطاکار از \"دنی\" عذرخواهی کرد، خشم او فروکش کرد"
     },
     {
@@ -4456,7 +4456,7 @@
       "PersianExampleA": "اگر بتوانی واژه ای را درست استفاده کنی، به احتمال قوی آن را فهمیده ای",
       "example2": "b. You need not be a pauper to comprehend fully what hunger is.",
       "PersianExampleB": "لازم نیست که فقیر باشید تا کاملاً بفهمید گرسنگی یعنی چه",
-      "example3": "c. My parents say that they cannot comprehend today's music.",
+      "example3": "c. My parents say that they cannot comprehend todays music.",
       "PersianExampleC": "خانواده ام می گویند که نمی توانند آهنگ های امروزی را درک کنند"
     },
     {
@@ -4465,9 +4465,9 @@
       "Persian": "تحسین کردن",
       "definition": "praise; hand over for safekeeping",
       "persian": "ستودن ، تحویل دادن",
-      "example1": "a. Everyone commended the mayor's thrifty suggestion.",
+      "example1": "a. Everyone commended the mayors thrifty suggestion.",
       "PersianExampleA": "همه پیشنهاد مقتصدانه شهردار را ستودند",
-      "example2": "b. Florence commended the baby to her aunt's care.",
+      "example2": "b. Florence commended the baby to her aunts care.",
       "PersianExampleB": "فلورانس طفل را برای مراقبت به عمه اش سپرد",
       "example3": "c. The truth is that we all like to be commended for good work.",
       "PersianExampleC": "حقیقت این است که همه ما دوست داریم برای انجام دادن کار خوب مورد تحسین قرار بگیریم"
@@ -4502,7 +4502,7 @@
       "lesson": "29",
       "word": "Vain",
       "Persian": "مغرور ، بیهوده",
-      "definition": "having too much pride in one's ability, looks, etc.; of no use",
+      "definition": "having too much pride in ones ability, looks, etc.; of no use",
       "persian": "به توانایی و چهره خود غرور زیاد ورزیدن ، بی فایده",
       "example1": "a. Josephine is quite vain about her beauty.",
       "PersianExampleA": "ژورفین واقعا به زیبایی اش غرّه است",
@@ -4530,7 +4530,7 @@
       "Persian": "تصویر کردن ، شرح دادن",
       "definition": "represent by drawing or painting; describe",
       "persian": "با ترسیم یا نقاشی نشان دادن ، توصیف کردن",
-      "example1": "a. The artist and the author both tried to depict the sunset's beauty.",
+      "example1": "a. The artist and the author both tried to depict the sunsets beauty.",
       "PersianExampleA": "نقاش و نویسنده، هر دو سعی کردند تا زیبایی غروب خورشید را به تصویر بکشند",
       "example2": "b. Mr. Salinger depicted the juvenile character with great accuracy,",
       "PersianExampleB": "آقای \"سالینگر\"، شخصیت نوجوان را با دقت تمام توصیف کرد",
@@ -4623,7 +4623,7 @@
       "persian": "دقیقاً حرف های شخص دیگری یا متنی از کتابی را تکرا کردن ، یعنی چیزی که دقیقاً تکرار می شود ، یک نقل قول",
       "example1": "a. She often quotes her spouse to prove a point.",
       "PersianExampleA": "او برای اثبات یک مطلب، اغلب گفته های شوهرش را نقل قول می کند",
-      "example2": "b. The stockbroker quoted gold at a dollar off yesterday's closing price.",
+      "example2": "b. The stockbroker quoted gold at a dollar off yesterdays closing price.",
       "PersianExampleB": "کارگزار بورس، قیمت طلا را یک دولار کمتر از آخرین قیمت دیروز اعلام کرد",
       "example3": "c. Biblical quotes offer a unique opportunity for study.",
       "PersianExampleC": "نقل قول های کتاب انجیل، فرصت بی نظیری را برای مطالعه بدست می دهد"
@@ -4638,7 +4638,7 @@
       "PersianExampleA": "آیه ای که پدرم به دفعات زیاد از انجیل نقل م یکرد، این بود که : \"همسایه ات را مثل خودت دوست بدار\"",
       "example2": "b. Several verses of a religious nature were contained in the document.",
       "PersianExampleB": "چندین آیه مذهبی در سند آمده بود",
-      "example3": "c. Though it is not always easy to comprehend, Shakespeare's verse has merit that is worth the toil.",
+      "example3": "c. Though it is not always easy to comprehend, Shakespeares verse has merit that is worth the toil.",
       "PersianExampleC": "اگرچه همیشه درک اشعار شکسپیر آسان نیست، اما ارزش سخت مطالعه کردن را دارد"
     },
     {
@@ -4651,7 +4651,7 @@
       "PersianExampleA": "سردبیر در مورد درست بودن کنترل تلفن محل سکونت رقبای سیاسی، صحبت کرد",
       "example2": "b. We rarely consider the morality of our daily actions ,though that should occupy a high position in our thinking.",
       "PersianExampleB": "ما به ندرت اصول اخلاقی کارهای روزانه خود را بررسی م یکنیم، اگر چه سزاوار است این اصول جای مهمی در تفکر ما اشغال نمایند",
-      "example3": "c. Kenny's unruly behavior has nothing to do with his lack of morality.",
+      "example3": "c. Kennys unruly behavior has nothing to do with his lack of morality.",
       "PersianExampleC": "رفتار متمردانه \"کنی\"، ارتباطی به عدم پرهیزکاری او ندارد"
     },
     {
@@ -4677,7 +4677,7 @@
       "PersianExampleA": "آهن ربا، ذرات آهنی را جذب کرد",
       "example2": "b. Adventure was the thrill which attracted the famous mountain climber to the jagged peak.",
       "PersianExampleB": "ماجراجویی هیجانی بود که کوهنوردان معروف را جذب قله بلند نمود",
-      "example3": "c. A glimpse into the brightly colored room attracted the children's attention.",
+      "example3": "c. A glimpse into the brightly colored room attracted the childrens attention.",
       "PersianExampleC": "یک نگاه کوتاه به اتاق با رنگ آمیزی درخشان، توجه کودکان را جلب نمود"
     },
     {
@@ -4688,7 +4688,7 @@
       "persian": "کسی که مرتب مسافت قابل ملاحظه ی منزل و محل کار را می پیماید",
       "example1": "a. The average commuter would welcome a chance to live in the vicinity of his or her work.",
       "PersianExampleA": "مسافرین هر روزه معمولی، شانس زندگی در نزدیکی محل کار خود را مغتنم می شمرند",
-      "example2": "b. Have your commuter's ticket verified by the conductor.",
+      "example2": "b. Have your commuters ticket verified by the conductor.",
       "PersianExampleB": "آیا بلیط مسافر هر روزه بودن شما توسط مامور قطار تایید شد؟",
       "example3": "c. A novel educational program gives college credit to commuters who listen to a lecture while they are traveling to work.",
       "PersianExampleC": "یکی از برنامه های آموزش نوین، به مسافرین هر روزه که در طول مسیر خودتا کار و برعکس به سخنرانی درسی گوش می دهند، مدرک کالج اعطا می کند"
@@ -4749,13 +4749,13 @@
       "lesson": "31",
       "word": "Patriotic",
       "Persian": "میهنی ، میهن پرستانه",
-      "definition": "loving one's country; showing love and loyal support for one's country",
+      "definition": "loving ones country; showing love and loyal support for ones country",
       "persian": "عاشق کشور خود ، نسبت به کشور خود عاشقانه و وفادارانه حمایت نشان می دهد",
       "example1": "a. It is patriotic to accept your responsibilities to your country.",
       "PersianExampleA": "وطن دوستی آن است که مسئولیت خود را در قبال کشورمان بپذیریم",
       "example2": "b. The patriotic attitude of the captive led him to refuse to cooperate with the enemy.",
       "PersianExampleB": "حسِ وطن دوستی اسیر باعث شد که او همکاری با دشمن را قبول نکند",
-      "example3": "c. Nathan Hate's patriotic statement has often been quoted: \"I regret that I have but one life to give for my country.\"",
+      "example3": "c. Nathan Hates patriotic statement has often been quoted: \"I regret that I have but one life to give for my country.\"",
       "PersianExampleC": "گفته های وطن پرستانه \"ناتان هیل\" اغلب اینطور نقل شده اند: \"افسوس که فقط یک جان دارم که فدای کشورم کنم"
     },
     {
@@ -4779,9 +4779,9 @@
       "persian": "شخص دیوانه ، لایعقل ، بسیار احمقاته",
       "example1": "a. The valor of the Vietnam veterans deserves the highest com me ndation.",
       "PersianExampleA": "شجاعت سربازان قدیمی ویتنام سزاوار بالاترین ستایش است",
-      "example2": "b. No one will dispute the valor of Washington's men at Valley Forge.",
+      "example2": "b. No one will dispute the valor of Washingtons men at Valley Forge.",
       "PersianExampleB": "هیچ کس به شجاعت مردان \"ایران\" در دفاع مقدس تردید نمی کند",
-      "example3": "c. The fireman's valor in rushing into the flaming house saved the occupants from a horrid fate.",
+      "example3": "c. The firemans valor in rushing into the flaming house saved the occupants from a horrid fate.",
       "PersianExampleC": "شجاعت مامور آتش نشانی در شتافتن به سوی خانه مشتعل، ساکنین را از مرگ وحشتناک نجات داد"
     },
     {
@@ -4790,7 +4790,7 @@
       "Persian": "احمق",
       "definition": "mood; a blood vessel that carries blood to the heart; a crack or seam in a rock filled with a different mineral",
       "persian": "خلق و خو ، رگ خونی که خون را به قلب حمل می کند  ،شکاف یا درز داخل یک تخته سنگ که با یک ماده ی معدنی متفاوت پر شده است",
-      "example1": "a. Only a lunatic would willingly descend into the monster's cave.",
+      "example1": "a. Only a lunatic would willingly descend into the monsters cave.",
       "PersianExampleA": "تنها یک دیوانه می تواند مشتاقانه به غار هیولا هجوم برد",
       "example2": "b. Certain lunatic ideas persist even though they have been rejected by all logical minds.",
       "PersianExampleB": "عقاید جنون آمیز خاصی هنوز پابرجا هستند، اگرچه توسط افکار منطقی رد شده اند",
@@ -4805,7 +4805,7 @@
       "persian": "بدون رخدادی مهم ی اقابل ملاحظه",
       "example1": "a. A vein of lunacy seemed to run in the family.",
       "PersianExampleA": "به نظر می رسید که حالت دیوانگی گریبان گیر خانواده شده است",
-      "example2": "b. Mario's wrist was severely cut by the rock, causing his vein to bleed heavily.",
+      "example2": "b. Marios wrist was severely cut by the rock, causing his vein to bleed heavily.",
       "PersianExampleB": "مُچ دست ماریو توسط صخره به شدت بریده شد و باعث شد که خون زیادی از رگ او برود",
       "example3": "c. Explorations disclosed the rich vein of copper in the mountain.",
       "PersianExampleC": "اکتشافات رگه غنی ای از مس را در کوه نشان داد"
@@ -4909,7 +4909,7 @@
       "persian": "آسیب پذیر ، در معرض حمله ، حساس به انتقاد ، اثرات و غیره",
       "example1": "a. Achilles was vulnerable only in his heel.",
       "PersianExampleA": "آشیل فقط از پاشنه اش آسیب پذیر بود",
-      "example2": "b. The investigator's nimble mind quickly located the vulnerable spot in the defendant's alibi.",
+      "example2": "b. The investigators nimble mind quickly located the vulnerable spot in the defendants alibi.",
       "PersianExampleB": "ذهن خلاق بازجو، سریعا نقطه ضعف ادله و شواهد متهم را پیدا نمود",
       "example3": "c. A vulnerable target for thieves is a solitary traveler.",
       "PersianExampleC": "هدف حساس برای دزدان، یک مسافر تنها است"
@@ -4985,9 +4985,9 @@
       "Persian": "وفاداری",
       "definition": "to supply; to state as a condition; to prepare for or against some situation",
       "persian": "تامین کردن ، به عنوان شرط بیان کردن ، در برابر وضعیتی یا برای وضعیتی آماده شدن",
-      "example1": "a. The monarch referred to his knights' loyalty with pride.",
+      "example1": "a. The monarch referred to his knights loyalty with pride.",
       "PersianExampleA": "پادشاه با افتخار به وفاداری شوالیه اشاره کرد",
-      "example2": "b. Nothing is so important to transmit to the youth as the sacredness of loyalty to one's country.",
+      "example2": "b. Nothing is so important to transmit to the youth as the sacredness of loyalty to ones country.",
       "PersianExampleB": "هیچ چیز مهم تر از این نیست که به جوانان، قذاست وفاداری به کشور خود را انتقال دهیم",
       "example3": "c. Out of a sense of loyalty to his friends, Michael was willing to suffer torments, and he, therefore, refused to identify his colleagues in the plot.",
       "PersianExampleC": "مایکل به علت حس وفاداری به دوستانش شکنجه ها را متحمل شد و در نتیجه از اینکه همکارانش را در توطئه لو دهد، اجتناب کرد"
@@ -4996,7 +4996,7 @@
       "lesson": "33",
       "word": "Volunteer",
       "Persian": "داوطلب",
-      "definition": "person who enters any service of his or her own free will; to offer one's services",
+      "definition": "person who enters any service of his or her own free will; to offer ones services",
       "persian": "فردی که با میل شخصی خودش در هر خدمتی وارد شو د، خدمات خود را ارائه دادن",
       "example1": "a. The draft has been abolished and replaced by a volunteer army.",
       "PersianExampleA": "احضار به خدمت سربازی منسوخ شد و داوطلبانه به خدمت رفتن، جای آن را گرفت",
@@ -5015,7 +5015,7 @@
       "PersianExampleA": "تبعیض نسبت به گروه های اقلیت تا زمانی که مردم حقیقت را نادیده می گیرند، باقی خواهد ماند",
       "example2": "b. Eliminating prejudice should be among the first concerns of a democracy.",
       "PersianExampleB": "از بین بردن تبعیض بایستی از جمله اولین وظایف یک حکومت دموکراسی باشد",
-      "example3": "c. The witness's weird behavior prejudiced Nancy's case.",
+      "example3": "c. The witnesss weird behavior prejudiced Nancys case.",
       "PersianExampleC": "رفتار غیر عادی شاهد، پرونده نانسی را تحت تاثیر قرار داد"
     },
     {
@@ -5050,7 +5050,7 @@
       "Persian": "شوخ",
       "definition": "cleverly amusing",
       "persian": "به شکل زیرکانه ای خنده دار",
-      "example1": "a. Mr. Carlson's witty introduction qualifies him as a first-rate speaker.",
+      "example1": "a. Mr. Carlsons witty introduction qualifies him as a first-rate speaker.",
       "PersianExampleA": "برنامه معرفی شوخ طبعانه آقای \"\"کارلسون\" او را بهترین سخنران می کند",
       "example2": "b. Fay is too slow to appreciate such witty remarks.",
       "PersianExampleB": "فای  در فهم چنین اظهارات شوخ طبعانه ای، بسیار کند است",
@@ -5067,7 +5067,7 @@
       "PersianExampleA": "گِل زیاد جلوی سفر در مراکز شهری را گرفت",
       "example2": "b. The storm hindered the pursuit of the fleeing prisoners.",
       "PersianExampleB": "توفان جلوی تعقیب زندانیان فراری را گرفت",
-      "example3": "c. Mona's gloomy nature hinders her relationships with other people.",
+      "example3": "c. Monas gloomy nature hinders her relationships with other people.",
       "PersianExampleC": "خلق و خوی افسرده \"مونا\"، مانع از ارتباط او با سایر مردم می شود"
     },
     {
@@ -5078,7 +5078,7 @@
       "persian": "  سرزنش ، سرزنش کردن ، سخنرانی یا نطق برنامه ریزی شده",
       "example1": "a. Rarely have I heard a lecture with such clear illustrations.",
       "PersianExampleA": "به ندرت چنین نطقی با توضیحات فصیح شنیده ام",
-      "example2": "b. Henry's father lectured him on the awesome perils of drug addiction.",
+      "example2": "b. Henrys father lectured him on the awesome perils of drug addiction.",
       "PersianExampleB": "پدر \"هنری\" در مورد خطرات مخوف اعتیاد به موارد مخدر، برای او سخنرانی کرد",
       "example3": "c. A famous journalist delivered a lecture on prejudice in the press.",
       "PersianExampleC": "روزنامه نگار معروفی، نطقی در مورد تبعیض در مطبوعات ارائه داد"
@@ -5169,7 +5169,7 @@
       "persian": "به کار رفتن پیش از ، آمدن پیش از ، از نظر اهمیت یا رتبه بالاتر بودن",
       "example1": "a. Lyndon Johnson preceded Richard Nixon as President.",
       "PersianExampleA": "لیندون جانسون قبل از \"ریچارد نیکسون\" ریس جمهور بود",
-      "example2": "b. In a gallant gesture, Ronnie allowed Amanda's name to precede his in the program listing.",
+      "example2": "b. In a gallant gesture, Ronnie allowed Amandas name to precede his in the program listing.",
       "PersianExampleB": "رونی با حالتی جوانمردانه اجازه داد که اسم \"آماندا\" قبل از اسم او، در فهرست برنامه قرار گیرد",
       "example3": "c. A prominent speaker preceded the ceremony of the granting of the diplomas.",
       "PersianExampleC": "سخنران برجسته ای، قبل از مراسم اعطاء مدارک تحصیلی (دیپلم)، نطقی ایراد کرد"
@@ -5217,13 +5217,13 @@
       "lesson": "34",
       "word": "Spontaneous",
       "Persian": "خودبخود ،‌خودجوش",
-      "definition": "of one's own free will; natural; on the spur of the moment; without rehearsal",
+      "definition": "of ones own free will; natural; on the spur of the moment; without rehearsal",
       "persian": "با میل شخصی خود ، طبیعی ، فی البداهه ، بدون تمرین",
       "example1": "a. The vast crowd burst into spontaneous cheering at the skillful play.",
       "PersianExampleA": "انبوه جمعیت، تحت تاثیر نمایش ماهرانه (بازیگرها)، به طور ناخودآگاه ابراز احساسات نمودند",
       "example2": "b. Be cautious with these oily rags because they can break out in spontaneous flame.",
       "PersianExampleB": "مراقب این کُهنه های روغنی باش چون خود به خود مشتعل می شوند",
-      "example3": "c. William's spontaneous resentment at the mention of his sister was noted by the observant teacher.",
+      "example3": "c. Williams spontaneous resentment at the mention of his sister was noted by the observant teacher.",
       "PersianExampleC": "تنفر ناخودآگاه \"ویلیام\" هنگام ذکر نام خواهرش، مورد توجه معلم تیز بین قرار گرفت"
     },
     {
@@ -5236,7 +5236,7 @@
       "PersianExampleA": "اگر چربی سوپ را بگیری، بسیار مغذی خواهد بود",
       "example2": "b. I caught a glimpse of Mark and Marge skimming over the ice.",
       "PersianExampleB": "من نگاهی به \"مارک\" و  \"مارج\" که در حال سُر خوردن روی یخ بودند، انداختم",
-      "example3": "c. Detective Corby, assigned to the homicide, was skimming through the victim's book of addresses.",
+      "example3": "c. Detective Corby, assigned to the homicide, was skimming through the victims book of addresses.",
       "PersianExampleC": "کاراگاه \"کوربی\"، که مسئول بررسی قتل بود، نگاهی به دفترچه تلفن قربانی انداخت"
     },
     {
@@ -5258,7 +5258,7 @@
       "Persian": "نامرتب",
       "definition": "not neat; not in order",
       "persian": "آشفته ، نا مرتب",
-      "example1": "a. The bachelor's quarters were most untidy.",
+      "example1": "a. The bachelors quarters were most untidy.",
       "PersianExampleA": "اقامتگاه مرد مجرّد، بسیار نا مرتب بود",
       "example2": "b. We must start a clean-up campaign to keep the campus from being so untidy.",
       "PersianExampleB": " ما بایستی یک جنبش پاکسازی به منظور از بین بردن نامرتبی محوطه ی دانشگاه، ایجاد نماییم",
@@ -5273,7 +5273,7 @@
       "persian": "ظرف یا ابزاری که برای اهداف کاربردی استفاده می شود ",
       "example1": "a. Several utensils were untidily tossed about the kitchen.",
       "PersianExampleA": "چندین ابزار در آشپزخانه، با حالت به هم ریخته ای، پرت شده بودند",
-      "example2": "b. Edward's baggage contained all the utensils he would need on the camping trip.",
+      "example2": "b. Edwards baggage contained all the utensils he would need on the camping trip.",
       "PersianExampleB": "چمدان \"ادوارد\" حاوی همه وسایل مورد نیاز او در سفر اردو بود",
       "example3": "c. Some people are so old-fashioned that they reject the use of any modern utensil.",
       "PersianExampleC": "بعضی از مردم آنقدر اُمّل هستند که استفاده از وسایل مدرن را قبول ندارند"
@@ -5310,7 +5310,7 @@
       "Persian": "مبهم ، دو پهلو",
       "definition": "not definite; not clear; not distinct",
       "persian": "نامعین ، ناآشکار ، نامشخص",
-      "example1": "a. Joe's position was vague because he wanted to remain neutral in the dispute.",
+      "example1": "a. Joes position was vague because he wanted to remain neutral in the dispute.",
       "PersianExampleA": "موضع \"جو\" در مشاجره نامشخص بود چون می خواست بی طرف باشد",
       "example2": "b. When asked her opinion, Gladys was tactful enough to give a vague answer that did not hurt anyone.",
       "PersianExampleB": "وقتی که از \"گلادیس\" نظرش را پرسیدند، به اندازه کافی در پاسخگویی مهارت داشت تا جواب مبهمی دهد که کسی را نرنجاند",
@@ -5377,7 +5377,7 @@
       "persian": "تصویر متحرک",
       "example1": "a. Censors have developed a rating system for the cinema.",
       "PersianExampleA": "مأمورین سانسور، سیستم طبقه بندی فیلم های سینما را ایجاد کرده اند",
-      "example2": "b. Today's cinema is full of homicides and violence.",
+      "example2": "b. Todays cinema is full of homicides and violence.",
       "PersianExampleB": "فیلم سینمایی امروزی، پر از قتل و خشونت است",
       "example3": "c. A best-seller is often the source of cinema stories.",
       "PersianExampleC": "کتاب پر فروش، اغلب منشأ داستان های سینمایی هستند"
@@ -5388,7 +5388,7 @@
       "Persian": "اتفاق ، مسابقه",
       "definition": "happening; important happening; result or outcome; one item in a program of sports",
       "persian": "رخداد ، رویداد مهم ، نتیجه یا پیامد",
-      "example1": "a. The greatest event in Ellie's life was winning the $50,000 lottery.",
+      "example1": "a. The greatest event in Ellies life was winning the $50,000 lottery.",
       "PersianExampleA": "بزرگترین پیشامد در زندگی \"الی\" بردن 50,000 دلار در بخت آزمایی بود",
       "example2": "b. We chose our seat carefully and then awaited the shot-put event.",
       "PersianExampleB": "ما جایمان را با دقت انتخاب کردیم و منتظر شروع مسابقه پرتاب وزنه شدیم",
@@ -5418,7 +5418,7 @@
       "PersianExampleA": "ما عقاب اوج گیرنده را که بر فراز قله ی کوه پرواز می کرد، تماشا می کردیم",
       "example2": "b. An ordinary man cannot comprehend such soaring ambition.",
       "PersianExampleB": "انسان معمولی از درک چنین اهداف والایی ناتوان است",
-      "example3": "c. The senator's hopes for victory soared after his television appearance.",
+      "example3": "c. The senators hopes for victory soared after his television appearance.",
       "PersianExampleC": "امیدهای پیروزی سناتور، بعد از حضورش در تلویزیون افزایش یافت"
     },
     {
@@ -5442,7 +5442,7 @@
       "persian": "گفتن ، شرح دادن ، از نظر معنایی یا فکری ربط دادن",
       "example1": "a. The traveler related his adventures with some exaggeration.",
       "PersianExampleA": "مسافر سفر پر ماجرای خود را با کمی اغراق حکایت کرد",
-      "example2": "b. After viewing the cinema's latest show, the observant student was able to relate every detail.",
+      "example2": "b. After viewing the cinemas latest show, the observant student was able to relate every detail.",
       "PersianExampleB": "دانشجوی نکته سنج بعد از دیدن آخرین نمایش سینما، قادر بود تمام جزئیات فیلم را شرح دهد",
       "example3": "c. Would you say that misfortune is related to carelessness?",
       "PersianExampleC": "آیا تصور می کنید که بداقبالی به بی مبالاتی ارتباطی دارد؟"
@@ -5468,7 +5468,7 @@
       "persian": "سریع ، به موقع ، فورا انجام می شود ، کسی را وادار به انجام کاری کردن ، اعمال یا واژگان مورد نیاز را به یاد کسی انداختن",
       "example1": "a. Be prompt in assembling your baggage.",
       "PersianExampleA": "در بستن چمدان سریع باش",
-      "example2": "b. Terry's caution prompted him to ask many questions before he consented.",
+      "example2": "b. Terrys caution prompted him to ask many questions before he consented.",
       "PersianExampleB": "احتیاط \"تری\" باعث شد که قبل از موافقت کردن، سوالات بسیاری بپرسد",
       "example3": "c. Larry was confident he knew his lines well enough not to need any prompting.",
       "PersianExampleC": "لاری مطمئن بود که نوشته های خود را به خوبی می داند و نیازی به رساندن متن (در تاتر) به او نیست"
@@ -5522,7 +5522,7 @@
       "PersianExampleA": "مادر با در اغوش کشیدن بچه آسیب دیده، درد او را التیام بخشید",
       "example2": "b. Heat soothes some aches; cold soothes others.",
       "PersianExampleB": "گرما بعضی از درد ها را تسکین می دهد و سرما بعضی دیگر را",
-      "example3": "c. Rosalie's nerves were soothed by the soft music.",
+      "example3": "c. Rosalies nerves were soothed by the soft music.",
       "PersianExampleC": "اعصاب \"روزالی\" با موسیقی ملایمی، تسکین یافت"
     },
     {
@@ -5531,7 +5531,7 @@
       "Persian": "همدرد",
       "definition": "having or showing kind feelings toward others; approving; enjoying the same things and getting along well together",
       "persian": "نسبت به دیگران احساسات مهربانانه ای دارد یا نشان می دهد ، موافق",
-      "example1": "a. Judge Cruz was sympathetic to the lawyer's plea for mercy.",
+      "example1": "a. Judge Cruz was sympathetic to the lawyers plea for mercy.",
       "PersianExampleA": "قاضی \"کروز\" درخواست وکیل برای عفو را پذیرفت",
       "example2": "b. Father was fortunately sympathetic to my request to use the car on weekends.",
       "PersianExampleB": "خوشبختانه پدر با درخواست من برای استفاده از اتومبیل در آخر هفته، موافقت نمود",
@@ -5600,7 +5600,7 @@
       "PersianExampleA": "فاش ساختن اسامی بزهکاران جوان، غیرقانونی است",
       "example2": "b. Bigamy is illegal in the United States.",
       "PersianExampleB": "دوهمسره بودن در ایالات متحده خلاف قانون است",
-      "example3": "c. Mr. Worthington's illegal stock manipulations led to his jail sentence.",
+      "example3": "c. Mr. Worthingtons illegal stock manipulations led to his jail sentence.",
       "PersianExampleC": "حساب سازی غیرقانونی آقای \"ورتیگتون\" در موجودی، منجر به زندانی شدن او گردید"
     },
     {
@@ -5613,14 +5613,14 @@
       "PersianExampleA": "تریاک، ماده مخدر قوی ای است",
       "example2": "b. We do not have adequate knowledge of the narcotic properties of these substances.",
       "PersianExampleB": "ما اطلاعات دقیقی از خواص مخدر این مواد نداریم",
-      "example3": "c. The doctor prescribed a narcotic medicine to soothe the patient's suffering.",
+      "example3": "c. The doctor prescribed a narcotic medicine to soothe the patients suffering.",
       "PersianExampleC": "پزشک، داروی آرام بخشی برای تسکین درد بیمار تجویز کرد"
     },
     {
       "lesson": "37",
       "word": "Heir",
       "Persian": "وارث",
-      "definition": "person who has a right to someone's property after that one dies; person who inherits anything",
+      "definition": "person who has a right to someones property after that one dies; person who inherits anything",
       "persian": "شخصی که پس از مرگ فردی نسبت به دارایی اش حق دارد ، شخصی که چیزی را به ارث می برد",
       "example1": "a. Though Mr. Sloane is the heir to a gold mine, he lives like a miser.",
       "PersianExampleA": "اگرچه آقای \"اسلون\" وارث معدن طلاست، اما مثل آدم های خسیس زندگی می کند",
@@ -5650,7 +5650,7 @@
       "persian": "کوچکتر و کوچکتر شدن ، جمع شدن",
       "example1": "a. Our supply of unpolluted water has dwindled.",
       "PersianExampleA": "ذخیره آب آلوده نشده ما رو به کاهش است",
-      "example2": "b. With no visible signs of their ship, hopes for the men's safety dwindled with each passing hour.",
+      "example2": "b. With no visible signs of their ship, hopes for the mens safety dwindled with each passing hour.",
       "PersianExampleB": "بدون هیچ گونه علائم مشهودی از کشتی آنها، امید زنده ماندن مردان، با گذر زمان کم شد",
       "example3": "c. After the furious tempest, the dwindling chances of finding the raft vanished entirely.",
       "PersianExampleC": "بعد از توفان شدید، شانس ضعیفِ پیدا کردن کلک، به کلی از بین رفت"
@@ -5687,7 +5687,7 @@
       "Persian": "تعمق کردن",
       "definition": "person who wilfully or ignorantly destroys or damages beautiful things",
       "persian": "کسی که خواسته یا نادانسته به چیزهای زیبا آسیب می زند یا آن ها را از بین می برد",
-      "example1": "a. Rico's excuse was a deliberate lie.",
+      "example1": "a. Ricos excuse was a deliberate lie.",
       "PersianExampleA": " بهانه ریکو یک دروغ عمدی بود",
       "example2": "b. My grandfather walks with deliberate steps.",
       "PersianExampleB": "پدر بزرگم، محتاطانه قدم می زند",
@@ -5726,7 +5726,7 @@
       "Persian": "تحمل کردن",
       "definition": "unite; make or form into one",
       "persian": "متحد کردن ، یکی کردن ، یکی شدن",
-      "example1": "a. The team decided unanimously to abide by the captain's ruling.",
+      "example1": "a. The team decided unanimously to abide by the captains ruling.",
       "PersianExampleA": "اعضاء تیم,متفق القول به این نتیجه رسیدند که به رای کاپیتان وفادار بمانند",
       "example2": "b. Senator Ervin abided by his promise not to allow demonstrations in the committee room.",
       "PersianExampleB": "سناتور اروین به قول خود مبنی بر این که اجازه ندهد تظاهرات در اتاق کمیته برگزار شود, پایبند ماند",
@@ -5754,7 +5754,7 @@
       "persian": "به دقت توجه کردن ، توجه کردن به ، توجه دقیق",
       "example1": "a. We estimated the summit of the mountain to be twenty thousand feet.",
       "PersianExampleA": "ما قله کوه را بیست هزار پا تخمین زدیم",
-      "example2": "b. Do not underestimate Ruth's ambition to reach the summit of the acting profession.",
+      "example2": "b. Do not underestimate Ruths ambition to reach the summit of the acting profession.",
       "PersianExampleB": "آرزوهای روث را برای رسیدن به اوج حرفه بازیگری دست کم نگیر",
       "example3": "c. The summit meeting of world leaders diminished the threat of war.",
       "PersianExampleC": "اجلاس سران رهبران جهان, تحدید جنگ را کاهش داد"
@@ -5776,7 +5776,7 @@
       "lesson": "38",
       "word": "Biography",
       "Persian": "شرح حال",
-      "definition": "the written story of a person's life; the part of literature that consists of biographies",
+      "definition": "the written story of a persons life; the part of literature that consists of biographies",
       "persian": "داستان مکتوب زندگی یک شخص ، بخشی از ادبیات که از زندگینامه تشکیل می شود",
       "example1": "a. Our teacher recommended the biography of the architect Frank Lloyd Wright.",
       "PersianExampleA": "معلم ما زندگی نامه ی معمار فرانک لوید رایت را توصیه کرد",
@@ -5830,7 +5830,7 @@
       "Persian": "غوغا",
       "definition": "noise; uproar; violent disturbance or disorder",
       "persian": "سر و صدا ، آشوب ، آشفتگی یا بی نظمی خشونت آمیز",
-      "example1": "a. The sailors' voices were too feeble to be heard above the tumult of the storm.",
+      "example1": "a. The sailors voices were too feeble to be heard above the tumult of the storm.",
       "PersianExampleA": "صدای ملوانان به حدی ضعیف بود که در غرش طوفان قابل شنیدن نبود",
       "example2": "b. There was such a tumult in the halls we concluded an accident had occurred.",
       "PersianExampleB": "جنان همهمه ای در سالن بر پا بود که تصور کردیم حادثه ای رخ داده است",
@@ -5841,7 +5841,7 @@
       "lesson": "38",
       "word": "Kneel",
       "Persian": "زانو زدن",
-      "definition": "go down on one's knees; remain on the knees",
+      "definition": "go down on ones knees; remain on the knees",
       "persian": "زانو زدن ، روی زانو ماندن",
       "example1": "a. Myra knelt down to pull a weed from the drenched flower bed.",
       "PersianExampleA": "میرا زانو زد تا علف هرزی را از شکست غمگین نمی شد",
@@ -5871,7 +5871,7 @@
       "persian": "آنچه که به او گفته می شود انجام می دهد ، مایل به اطاعت",
       "example1": "a. The obedient dog came when his master beckoned.",
       "PersianExampleA": "سگ فرمانبر هنگامی که صاحبش به او اشاره کرد,جلو آمد",
-      "example2": "b. Obedient to his father's wishes, Guy did not explore any further.",
+      "example2": "b. Obedient to his fathers wishes, Guy did not explore any further.",
       "PersianExampleB": "گای که نسبت به خواسته های پدرش فرمانبر بود,بیش از این تحقیق نکرد",
       "example3": "c. When parents make reasonable requests of them, the majority of my friends are obedient.",
       "PersianExampleC": "اکثر دوستانم زمانیکه والدین شان از آنها خواهش های منطقی دارند,مطیع هستند"
@@ -5884,7 +5884,7 @@
       "persian": "برگشتن ، به عقب حرکت کردن ، به طرف عقب شیب داشتن ، عقب کشیدن",
       "example1": "a. As you ride past in a train, you have the unique feeling that houses and trees are receding.",
       "PersianExampleA": "هنگامی که سوار قطار هستید این احساس بی نظیر را دارید که خانه ها و درختان دارند به عقب می روند",
-      "example2": "b. Mr. Ranford's beard conceals his receding chin.",
+      "example2": "b. Mr. Ranfords beard conceals his receding chin.",
       "PersianExampleB": "ریش های آقای رانفورد چانه ی تورفته اش را مخفی می کند",
       "example3": "c. Always cautious, Mr. Camhi receded from his former opinion.",
       "PersianExampleC": "آقای کامهی که همیشه محتاط است,از عقیده ی پیشین خود دست کشید"
@@ -5906,11 +5906,11 @@
       "lesson": "38",
       "word": "Charity",
       "Persian": "صدقه ، بخشش ، خیریه",
-      "definition": "generous giving to the poor; institutions for helping the sick, the poor, or the helpless; kindness in judging people's faults",
+      "definition": "generous giving to the poor; institutions for helping the sick, the poor, or the helpless; kindness in judging peoples faults",
       "persian": "بخشش سخاوتمندانه به فقرا ، موسساتی که برای کمک به بیماران ، فقرا و بیچارگان ، مهربانی در سنجش تقصیرات مردم",
       "example1": "a. A free hospital is a noble charity.",
       "PersianExampleA": "یک بیمارستان رایگان,انجمن خیریه شریفی می باشد",
-      "example2": "b. The entire community is the beneficiary of Henry's charity.",
+      "example2": "b. The entire community is the beneficiary of Henrys charity.",
       "PersianExampleB": "تمام جامعه از انجمن خیریه ی هنری ذینفع هستند",
       "example3": "c. The hired hand was too proud to accept help or charity.",
       "PersianExampleC": "خدمتکار مغرور از آن بود که کمک یا صدقه بپذیرد"
@@ -5962,9 +5962,9 @@
       "persian": "از نظر فضا مکان یکسانی را اشغال کردن ، زمان یکسانی را اشغال کردن ، دقیقاً برابر بودن ، توافق داشتن",
       "example1": "a. If these triangles were placed one on top of the other, they would coincide.",
       "PersianExampleA": "اگر این مثلث ها روی یکدیگر قرار داده شوند,بر هم منطبق می شوند",
-      "example2": "b. Because Pete's and Jim's working hours coincide, and they live in the same vicinity, they depart from their homes at the same time.",
+      "example2": "b. Because Petes and Jims working hours coincide, and they live in the same vicinity, they depart from their homes at the same time.",
       "PersianExampleB": "چونکه ساعت کاری پیت و جیم هم زمان است و در همسایگی هم زندگی می کنند,هر دو همزمان خانه هایشان را ترک می کنند",
-      "example3": "c. My verdict on the film coincides with Adele's.",
+      "example3": "c. My verdict on the film coincides with Adeles.",
       "PersianExampleC": "رای من درباره فیلم با رای آدله مطابقت دارد"
     },
     {
@@ -5990,7 +5990,7 @@
       "PersianExampleA": "اگر یک دلار از شما قرض بگیرم بدهکار شما هستم",
       "example2": "b. As a debtor who had received many favors from the banker, Mr.Mertz was reluctant to testify against him.",
       "PersianExampleB": "آقای مرتز به عنوان بدهکاری که مساعدت های زیادی از جانب رئیس بانک دریافت کرده بود,مایل نبود علیه او شهادت دهد",
-      "example3": "c. A gloomy debtor's prison was once the fate of those who could not repay their loans.",
+      "example3": "c. A gloomy debtors prison was once the fate of those who could not repay their loans.",
       "PersianExampleC": "زندان تاریک بدهکاران,زمانی سرنوشت کسانی بود که نمی توانستند وام های خود را باز پرداخت کنند"
     },
     {
@@ -5999,7 +5999,7 @@
       "Persian": "خوانا",
       "definition": "able to be read; easy to read; plain and clear",
       "persian": "قابل خواندن ، راحت برای خواندن ، ساده و آشکار",
-      "example1": "a. Julia's handwriting is beautiful and legible.",
+      "example1": "a. Julias handwriting is beautiful and legible.",
       "PersianExampleA": "دست خط جولیا زیبا و خوانا است",
       "example2": "b. Nancy hesitated in her reading because the words were scarcely legible.",
       "PersianExampleB": "نانسی در خواندن خود,درنگ می کرد چون کلمات به سختی قابل خواندن بود",
@@ -6105,7 +6105,7 @@
       "persian": "چاقی مفرط",
       "example1": "a. Obesity is considered a serious disease.",
       "PersianExampleA": "چاقی بیش از حد یک بیماری جدی تلقی می شود",
-      "example2": "b. The salesman tactfully referred to Jack's obesity as stoutness.",
+      "example2": "b. The salesman tactfully referred to Jacks obesity as stoutness.",
       "PersianExampleB": "فروشنده,محافظ کارانه چاقی بیش از حد جک را تنومندی تلقی کرد",
       "example3": "c. At the medical convention the topic discussed was the prevention of obesity.",
       "PersianExampleC": "موضوعی که در گردهمایی پزشکی مورد بحث قرار گرفت,جلوگیری از چاقی زیاد بود"
@@ -6196,7 +6196,7 @@
       "persian": "پرداخت منظمی که دستمزد نیست ، چنین مبلغی را پرداختن",
       "example1": "a. Pensions are often paid because of long service, special merit, or injuries received.",
       "PersianExampleA": "مستمری ها اغلب بخاطر خدمت طولانی,شایستگی های ویژه و یا جراحات وارده پرداخت می شود",
-      "example2": "b. The pension is calculated on the basis of your last year's income.",
+      "example2": "b. The pension is calculated on the basis of your last years income.",
       "PersianExampleB": "حقوق بازنشستگی بر اساس درآمد سال آخر شما محاصبه می شود",
       "example3": "c. Mrs. Colby pensioned off her employee after thirty years of loyal service.",
       "PersianExampleC": "خانم کلبی کارمندانش را بعد از سی سال خدمت صادقانه بازنشسته کرد"
@@ -6298,7 +6298,7 @@
       "Persian": "عمودی",
       "definition": "straight up and down with reference to the horizon, for example, a vertical line",
       "persian": "مستقیم از بالا و پایین مثلاً خط عمودی",
-      "example1": "a. It wasn't easy to get the drunken man into a vertical position.",
+      "example1": "a. It wasnt easy to get the drunken man into a vertical position.",
       "PersianExampleA": "سرپا نگه داشتن مرد مست کار دشواری بود",
       "example2": "b. The way to vote for your candidate is to pull the lever from the horizontal position to the vertical position.",
       "PersianExampleB": "شیوه ی رائ دادن به نامزد انتخابی خود,این است که اهرم را از حالت افقی به حالت عمودی تغییر دهی",
@@ -6363,11 +6363,11 @@
       "Persian": "مشغول و نگران",
       "definition": "took up all the attention",
       "persian": "درگیر ، مشغول ",
-      "example1": "a. Getting to school in time for the test preoccupied Judy's mind.",
+      "example1": "a. Getting to school in time for the test preoccupied Judys mind.",
       "PersianExampleA": "به موقع رسیدنبه مدرسه برای امتحان,ذهن جودی را به خود مشغول کرد",
-      "example2": "b. My boss is always preoccupied with ways of cutting down on the workers' lateness.",
+      "example2": "b. My boss is always preoccupied with ways of cutting down on the workers lateness.",
       "PersianExampleB": "رئیس من همیشه ذهنش درگیر شیوه های کاهش تاخیر کارمندان است",
-      "example3": "c. Charity cases preoccupied Mrs. Reynaldo's attention.",
+      "example3": "c. Charity cases preoccupied Mrs. Reynaldos attention.",
       "PersianExampleC": "امور خیریه تمام توجه خانم رینالدو را به خود مشغول کرد"
     },
     {
@@ -6378,7 +6378,7 @@
       "persian": "روکش ها و رویه های مبل",
       "example1": "a. Our old sofa was given new velvet upholstery.",
       "PersianExampleA": "به کاناپه ی قدیمی مان روکش مخمل جدیدی داده شد",
-      "example2": "b. The Browns' upholstery was so new that we were wary about visiting them with the children.",
+      "example2": "b. The Browns upholstery was so new that we were wary about visiting them with the children.",
       "PersianExampleB": "رومبلی ها ی خانواده براون آنقدر جدید و نو بود که مراقب بودیم با بچه ها به دیدن آنها نرویم",
       "example3": "c. Thirty-five dollars was the estimate for changing the upholstery on the dining-room chairs.",
       "PersianExampleC": "برآورد تعویض روکش صندلی های اتاق ناهار خوری سی و پنج دلار بود"
@@ -6389,11 +6389,11 @@
       "Persian": "بی توجهی",
       "definition": "lack of interest, care, or attention",
       "persian": "عدم علاقه ، دقت یا توجه",
-      "example1": "a. Alien's indifference to his schoolwork worried his parents.",
+      "example1": "a. Aliens indifference to his schoolwork worried his parents.",
       "PersianExampleA": "بی توجهی آلن به تکالیف مدرسه,والدینش را نگران نمود",
       "example2": "b. It was a matter of indifference to Bernie whether the story circulating about his engagement was true or not.",
       "PersianExampleB": "برای برنی موضوع بی اهمیتی بود,کهآیا داستانی که درباره ی نامزدی اش پخش شده است حقیقت دارد یا نه",
-      "example3": "c. My father could not refrain from commenting on Linda's indifference toward her brother's tears.",
+      "example3": "c. My father could not refrain from commenting on Lindas indifference toward her brothers tears.",
       "PersianExampleC": "پدرم نمیتوانست از اظهار نظر پیرامون بی اعتنایی لیندا نسبت به اشکهای برادرش اجتناب کند"
     },
     {
@@ -6441,11 +6441,11 @@
       "Persian": "خشم",
       "definition": "very great anger; rage",
       "persian": "خشم بسیار زیاد ، غضب",
-      "example1": "a. Anticipating Father's wrath, we tried to give him the news slowly.",
+      "example1": "a. Anticipating Fathers wrath, we tried to give him the news slowly.",
       "PersianExampleA": "چون خشم پدر را پیش بینی می کردیم,تلاش کردیم خبر را آرام آرام به او بدهیم",
       "example2": "b. There is no rage like the wrath of an angry bear.",
       "PersianExampleB": "هیچ خشمی مثل خشم یک خرس عصبانی نیست",
-      "example3": "c. After Ernie's wrath subsided, we were able to tell him what had happened.",
+      "example3": "c. After Ernies wrath subsided, we were able to tell him what had happened.",
       "PersianExampleC": "بعد از اینکه خشم ارنی فرو کش کرد,توتنستیم به او بگوییم چه اتفاقی افتاده است"
     },
     {
@@ -6454,7 +6454,7 @@
       "Persian": "فاش کردن",
       "definition": "lay open; uncover; leave unprotected; show openly",
       "persian": "باز گذاشتن ، نپوشاندن ، بی حفاظ گذاشتن ، علناً نشان دادن",
-      "example1": "a. Soldiers in an open field are exposed to the enemy's gunfire.",
+      "example1": "a. Soldiers in an open field are exposed to the enemys gunfire.",
       "PersianExampleA": "در یک میدان باز,سربازان در معرض آتش گلوله دشمن قرار دارند",
       "example2": "b. Foolish actions expose a person to the sneers of others.",
       "PersianExampleB": "اعمال احمقانه,انسان را در معرض تمسخر و نیش خند دیگران قرار میدهند",
@@ -6536,7 +6536,7 @@
       "PersianExampleA": "وقت آن است که رفتارت را اصلاح کنی",
       "example2": "b. Each time they amended the plan, they made it worse.",
       "PersianExampleB": "هر بار که طرح را اصلاح کردند,آن را بدتر کردند",
-      "example3": "c. Rather than amend the club's constitution again, let us discard it and start afresh.",
+      "example3": "c. Rather than amend the clubs constitution again, let us discard it and start afresh.",
       "PersianExampleC": "به جای اصلاح مجدد اساسنامه ی باشگاه,بهتر است این اساسنامه را دور بزنیم واز نو شروع کنیم"
     },
     {
@@ -6547,7 +6547,7 @@
       "persian": "قطعه ای کاغذ که در رای گیری استفاده می شود ، تعداد کل آراء شمرده ، شیوه ی رای گیری مخفیانه ، با استفاده از رای تصمیم گرفتن",
       "example1": "a. Clyde, confident of victory, dropped his ballot into the box.",
       "PersianExampleA": "کلاید که از پیروزی خود مطمئن بود,برگه ی رای را داخل صندق انداخت",
-      "example2": "b. After we counted the ballots a second time, Leo's victory was confirmed.",
+      "example2": "b. After we counted the ballots a second time, Leos victory was confirmed.",
       "PersianExampleB": "بعد از اینکه برگه ها را برای بار دوم شمردیم,پیروزی لئو تایید شد",
       "example3": "c. To avoid embarrassing the candidates, we ballot instead of showing hands.",
       "PersianExampleC": "ما برای پرهیز از خجالت دادن نامزدها,به جای دست نشان دادن رای می دهیم"

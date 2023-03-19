@@ -14,13 +14,16 @@ class QuizCard extends StatelessWidget {
     List<Word> words = Provider.of<List<Word>>(context);
     List<Word> correctedWords = [];
     List<Word> wrongWords = [];
-    quiz.quizWords?.forEach((element) {
-      if(element.correct == 1){
-        correctedWords.add(words.firstWhere((item) => element.idWord == item.id));
-      }else{
-        wrongWords.add(words.firstWhere((item) => element.idWord == item.id));
-      }
-    });
+    if(words.isNotEmpty){
+      quiz.quizWords?.forEach((element) {
+        if(element.correct == 1){
+          correctedWords.add(words.firstWhere((item) => element.idWord == item.id));
+        }else{
+          wrongWords.add(words.firstWhere((item) => element.idWord == item.id));
+        }
+      });
+    }
+
 
     return Container(
       margin: const EdgeInsets.all(10),
@@ -30,12 +33,15 @@ class QuizCard extends StatelessWidget {
           child: Column(
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
-              Text("Quiz number $index",style: Theme.of(context).textTheme.bodyLarge!.copyWith(color: Colors.blueGrey),),
-              const SizedBox(height:10 ),
-              Padding(
-                padding: const EdgeInsets.all(8.0),
-                child: Text("Corrected answer",style: Theme.of(context).textTheme.bodyLarge!.copyWith(color: Colors.green),),
+              Row(
+                mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                children: [
+                  Text("Quiz number $index",style: Theme.of(context).textTheme.bodyLarge!.copyWith(color: Colors.blueGrey),),
+                  Text("Created in ${quiz.createdTime!.year}/${quiz.createdTime!.month}/${quiz.createdTime!.day}",style: Theme.of(context).textTheme.bodySmall!.copyWith(fontStyle: FontStyle.italic,color: Colors.blueGrey),),
+                ],
               ),
+              const SizedBox(height:10 ),
+
               Padding(
                 padding: const EdgeInsets.all(8.0),
                 child: Wrap(
